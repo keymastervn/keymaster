@@ -1,4 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "attachmentFolderPath": "1. til/2022-04",
+  "promptDelete": false
 }
