@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. til/2022-04/20220430.md",
+            "file": "career/mentoring/102 - ruby/201.TDD, rspec and friends.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. til/2022-04/20220430.md",
+                "file": "career/mentoring/102 - ruby/201.TDD, rspec and friends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0f9aa97483689dbb",
   "lastOpenFiles": [
+    "career/mentoring/102 - ruby/201.TDD, rspec and friends.md",
+    "career/mentoring/102 - ruby/3.method and class, and the return.md",
+    "1. til/2022-04/20220504.md",
+    "career/mentoring/102 - ruby/101. service object.md",
+    "career/mentoring/102 - ruby/1.variable and assignments.md",
+    "career/mentoring/102 - ruby/2.object reference or value.md",
     "1. til/2022-04/20220430.md",
     "1. til/2022-04/20220429.md",
     "career/mentoring/010 - authentication and authorization/1.Session.md",
-    "career/mentoring/010 - authentication and authorization/2.JWT.md",
-    "career/mentoring/010 - authentication and authorization/3.OAuth.md",
-    "career/mentoring/010 - authentication and authorization/4.Policy-based vs Role-based authorization.md",
-    "career/mentoring/103 - web application, or deeper ruby/Network Protocol.md",
-    "career/mentoring/103 - web application, or deeper ruby/Network.md",
-    "career/mentoring/010 - authentication and authorization/6.Single sign on.md",
-    "career/mentoring/103 - web application, or deeper ruby/Sync vs Async processing.md"
+    "career/mentoring/010 - authentication and authorization/2.JWT.md"
   ]
 }
