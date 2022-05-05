@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "career/mentoring/010 - authentication and authorization/6.Single sign on.md",
+            "file": "career/senior competencies/2.task - team observability/1. agile roadmap.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/mentoring/010 - authentication and authorization/6.Single sign on.md",
+                "file": "career/senior competencies/2.task - team observability/1. agile roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0f9aa97483689dbb",
   "lastOpenFiles": [
+    "career/senior competencies/2.task - team observability/1. agile roadmap.md",
+    "career/senior competencies/1.communication/work processes/2. agile software development.md",
+    "career/senior competencies/1.communication/work processes/1. extreme programming.md",
     "career/mentoring/010 - authentication and authorization/6.Single sign on.md",
     "career/mentoring/102 - ruby/201.TDD, rspec and friends.md",
     "career/mentoring/102 - ruby/101. service object.md",
-    "career/senior competencies/4.engineering capability/implementation/1. glossary.md",
-    "career/senior competencies/4.engineering capability/design/1. glossary.md",
-    "career/senior competencies/4.engineering capability/architect/1. glossary.md",
-    "career/mentoring/103 - web application, or deeper ruby/Network.md",
-    "career/mentoring/103 - web application, or deeper ruby/Network Protocol.md",
-    "career/mentoring/103 - web application, or deeper ruby/Contract (or validation) Object.md",
-    "career/mentoring/103 - web application, or deeper ruby/102. client-server architecture.md"
+    "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
+    "career/senior competencies/4.engineering capabilities/design/1. glossary.md",
+    "career/senior competencies/4.engineering capabilities/architect/1. glossary.md",
+    "career/mentoring/103 - web application, or deeper ruby/Network.md"
   ]
 }
