@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
+            "file": "1. til/2022-04/20220506.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
+                "file": "1. til/2022-04/20220506.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0f9aa97483689dbb",
   "lastOpenFiles": [
-    "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
-    "career/senior competencies/4.engineering capabilities/design/1. glossary.md",
-    "career/senior competencies/4.engineering capabilities/architect/1. glossary.md",
+    "1. til/2022-04/20220506.md",
+    "career/mentoring/600 - mock_interview/1. structured vs unstructured interview.md",
+    "1. til/2022-04/20220505.md",
     "1. til/2022-04/20220504.md",
+    "career/mentoring/104 - database fundamentals/normalization/1. denormalization.md",
+    "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
+    "career/senior competencies/4.engineering capabilities/architect/1. glossary.md",
+    "career/senior competencies/4.engineering capabilities/design/1. glossary.md",
     "career/senior competencies/2.task - team observability/1. agile roadmap.md",
-    "career/senior competencies/1.communication/work processes/2. agile software development.md",
-    "career/senior competencies/1.communication/work processes/1. extreme programming.md",
-    "career/mentoring/010 - authentication and authorization/6.Single sign on.md",
-    "career/mentoring/102 - ruby/201.TDD, rspec and friends.md",
-    "career/mentoring/102 - ruby/101. service object.md"
+    "career/senior competencies/1.communication/work processes/2. agile software development.md"
   ]
 }
