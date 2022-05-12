@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220509.md",
+            "file": "1. til/2022-05/20220512.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220509.md",
+                "file": "1. til/2022-05/20220512.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0f9aa97483689dbb",
   "lastOpenFiles": [
-    "20220509.md",
-    "1. til/2022-04/20220508.md",
-    "1. til/2022-04/20220506.md",
-    "career/mentoring/600 - mock_interview/1. structured vs unstructured interview.md",
-    "1. til/2022-04/20220505.md",
-    "1. til/2022-04/20220504.md",
-    "career/mentoring/104 - database fundamentals/normalization/1. denormalization.md",
-    "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
-    "career/senior competencies/4.engineering capabilities/architect/1. glossary.md",
-    "career/senior competencies/4.engineering capabilities/design/1. glossary.md"
+    "1. til/2022-05/20220512.md",
+    "1. til/2022-05/20220511.md",
+    "2. book reflections/Philosophy of Software Design.md",
+    "20220512.md",
+    "20220511.md",
+    "1. til/2022-05/20220510.md",
+    "career/mentoring/103 - web application, or deeper ruby/Sync vs Async processing.md",
+    "career/mentoring/103 - web application, or deeper ruby/Network Protocol.md",
+    "career/senior competencies/4.engineering capabilities/design/1. glossary.md",
+    "career/senior competencies/4.engineering capabilities/architect/1. glossary.md"
   ]
 }
