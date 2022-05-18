@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220517.md",
+            "file": "1. til/2022-05/20220518.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220517.md",
+                "file": "1. til/2022-05/20220518.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "66da15cd2f1b4f8a",
   "lastOpenFiles": [
-    "20220517.md",
+    "1. til/2022-05/20220518.md",
+    "1. til/2022-05/20220517.md",
     "1. til/2022-05/20220516.md",
     "Untitled.md",
     "1. til/2022-05/20220513.md",
@@ -96,7 +97,6 @@
     "career/mentoring/103 - web application, or deeper ruby/Network.md",
     "career/mentoring/103 - web application, or deeper ruby/Sync vs Async processing.md",
     "career/senior competencies/2.task - team observability/1. agile roadmap.md",
-    "career/senior competencies/1.communication/work processes/2. agile software development.md",
-    "1. til/2022-05/20220512.md"
+    "career/senior competencies/1.communication/work processes/2. agile software development.md"
   ]
 }
