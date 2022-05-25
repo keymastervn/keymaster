@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. til/2022-05/20220523.md",
+            "file": "1. til/2022-05/20220525.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. til/2022-05/20220523.md",
+                "file": "1. til/2022-05/20220525.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "66da15cd2f1b4f8a",
   "lastOpenFiles": [
+    "1. til/2022-05/20220525.md",
+    "1. til/2022-05/20220524.md",
     "1. til/2022-05/20220523.md",
     "1. til/2022-04/20220425.md",
     "1. til/2022-05/20220520.md",
@@ -95,8 +97,6 @@
     "1. til/2022-05/20220518.md",
     "1. til/2022-05/20220517.md",
     "1. til/2022-05/20220516.md",
-    "Untitled.md",
-    "1. til/2022-05/20220513.md",
-    "career/mentoring/102 - ruby - a developer happiness language/901. thread-safe.md"
+    "Untitled.md"
   ]
 }
