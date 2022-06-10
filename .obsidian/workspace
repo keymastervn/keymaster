@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. today i touch/2022-06/20220608.md",
+            "file": "career/working culture/1. psychological safety first.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2022-06/20220608.md",
+                "file": "career/working culture/1. psychological safety first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "66da15cd2f1b4f8a",
   "lastOpenFiles": [
+    "career/working culture/1. psychological safety first.md",
+    "1. today i touch/2022-06/20220609.md",
     "1. today i touch/2022-06/20220608.md",
     "1. today i touch/2022-06/20220607.md",
     "1. today i touch/2022-06/20220606.md",
@@ -95,8 +97,6 @@
     "1. today i touch/2022-06/20220601.md",
     "Untitled.md",
     "1. today i touch/2022-04/20220430.md",
-    "2. book reflections/No-nonsense Leadership.md",
-    "2. book reflections/Philosophy of Software Design.md",
-    "1. today i touch/2022-05/20220531.md"
+    "2. book reflections/No-nonsense Leadership.md"
   ]
 }
