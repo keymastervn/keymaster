@@ -1,0 +1,3 @@
+- This book is progressive
+	- first it explains the overview scope
+	- each chapter goes into detail about problems, tools and solutions, pros, cons, caveats
