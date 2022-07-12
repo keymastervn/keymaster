@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. today i touch/2022-07/20220710.md",
+            "file": "1. today i touch/2022-07/20220712.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2022-07/20220710.md",
+                "file": "1. today i touch/2022-07/20220712.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "66da15cd2f1b4f8a",
   "lastOpenFiles": [
+    "1. today i touch/2022-07/20220712.md",
+    "1. today i touch/2022-07/20220711.md",
     "1. today i touch/2022-07/20220710.md",
     "1. today i touch/2022-07/20220707.md",
     "1. today i touch/2022-07/20220706.md",
@@ -95,8 +97,6 @@
     "career/working culture/7. plan is the first-class citizen.md",
     "career/working culture/1. psychological safety first.md",
     "career/working culture/2. into the flow.md",
-    "career/working culture/3. amplification mindset in productivity.md",
-    "career/working culture/4. attention to detail, be extremely specific.md",
-    "career/working culture/5. bonding.md"
+    "career/working culture/3. amplification mindset in productivity.md"
   ]
 }
