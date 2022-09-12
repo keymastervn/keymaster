@@ -7,8 +7,12 @@
         "id": "66da15cd2f1b4f8a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. today i touch/2022-09/20220912.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. today i touch/2022-09/20220912.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,10 +86,10 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "4a6056577ee4ce8e",
+  "active": "66da15cd2f1b4f8a",
   "lastOpenFiles": [
-    "1. today i touch/2022-09/20220909.md",
     "1. today i touch/2022-09/20220912.md",
+    "1. today i touch/2022-09/20220909.md",
     "1. today i touch/2022-09/20220908.md",
     "1. today i touch/2022-09/20220907.md",
     "1. today i touch/2022-09/20220906.md",
