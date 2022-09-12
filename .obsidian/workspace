@@ -7,12 +7,8 @@
         "id": "66da15cd2f1b4f8a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. today i touch/2022-08/20220826.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2022-08/20220826.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +81,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "66da15cd2f1b4f8a",
+  "active": "4a6056577ee4ce8e",
   "lastOpenFiles": [
-    "1. today i touch/2022-08/20220823.md",
-    "1. today i touch/2022-08/20220821.md",
-    "1. today i touch/2022-08/20220820.md",
-    "1. today i touch/2022-08/20220817.md",
-    "1. today i touch/2022-08/20220819.md",
-    "1. today i touch/2022-08/20220818.md",
-    "1. today i touch/2022-08/20220816.md",
-    "1. today i touch/2022-08/20220815.md",
-    "Gratitude Journal/Untitled.md",
-    "1. today i touch/2022-07/20220720.md"
+    "1. today i touch/2022-09/20220909.md",
+    "1. today i touch/2022-09/20220912.md",
+    "1. today i touch/2022-09/20220908.md",
+    "1. today i touch/2022-09/20220907.md",
+    "1. today i touch/2022-09/20220906.md",
+    "1. today i touch/2022-09/20220905.md",
+    "1. today i touch/2022-08/20220831.md",
+    "1. today i touch/2022-08/20220830.md",
+    "1. today i touch/2022-08/20220829.md",
+    "1. today i touch/2022-08/20220826.md"
   ]
 }
