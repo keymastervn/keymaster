@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "badee1b8d9be4020",
+        "id": "e9e271fc67031fdb",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ee82e1dbc824e3",
+            "id": "1e4242b8686e2539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2022-11/20221130.md",
+                "file": "1. today i touch/2022-12/20221213.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2022-11/20221130.md",
+                "file": "1. today i touch/2022-12/20221213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "direction": "horizontal",
     "width": 303.5
   },
-  "active": "a3ee82e1dbc824e3",
+  "active": "1e4242b8686e2539",
   "lastOpenFiles": [
-    "1. today i touch/2022-11/20221118.md",
-    "1. today i touch/2022-11/20221122.md",
-    "1. today i touch/2022-11/20221128.md",
-    "1. today i touch/2022-11/20221130.md",
-    "career/mentoring/010 - authentication and authorization/2.JWT.md",
-    "career/mentoring/010 - authentication and authorization/6.Single sign on.md",
-    "career/mentoring/010 - authentication and authorization/5.Feature flags.md",
     "career/mentoring/010 - authentication and authorization/1.Session.md",
-    "career/mentoring/010 - authentication and authorization/4.Policy-based vs Role-based authorization.md",
-    "career/mentoring/010 - authentication and authorization/3.OAuth.md"
+    "career/mentoring/010 - authentication and authorization/5.Feature flags.md",
+    "1. today i touch/2022-12/20221213.md",
+    "2022-12-13.md",
+    "1. today i touch/2022-05/20220504.md",
+    "career/senior competencies/4.engineering capabilities/implementation/1. glossary.md",
+    "1. today i touch/2022-12/20221212.md",
+    "1. today i touch/2022-12/20221205.md",
+    "1. today i touch/2022-12/20221207.md",
+    "1. today i touch/2022-12/20221208.md"
   ]
 }
