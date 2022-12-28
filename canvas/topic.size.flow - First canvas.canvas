@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"8b5f8ff192132d2b","x":-298,"y":-14,"width":400,"height":400,"type":"file","file":"1. today i touch/2022-12/20221227.md"},
+		{"id":"6b480fdb588c7c02","x":319,"y":-43,"width":400,"height":400,"type":"link","url":"https://obsidian.md/images/canvas/canvas-jgoodman.png"},
+		{"id":"64ab3906f2dc5370","x":-766,"y":-482,"width":400,"height":353,"type":"link","url":"https://obsidian.md/images/canvas/canvas-caglar-ongan.png"},
+		{"id":"194900979f0ce0dc","x":32,"y":-530,"width":400,"height":378,"color":"3","type":"file","file":"1. today i touch/2022-12/20221226.md"},
+		{"id":"e404ecb99b0a5d45","x":-311,"y":-994,"width":250,"height":538,"color":"1","type":"text","text":"Dat Le - Testing canvas\nCan be used to make flows\nCanvas naming convention\n- topic: topic name\n- size: can be spark, minor, major. A topic should start from major, down to spark to give you a full picture (progressive)\n- flow: the subject naming\n\neg. In computer science can have some major : software engineering, and spark OOP\nBut you can define a major software engineering with minor web development and spark: rails, ngĩn"}
+	],
+	"edges":[
+		{"id":"9a8ce370a61dbdcf","fromNode":"8b5f8ff192132d2b","fromSide":"top","toNode":"194900979f0ce0dc","toSide":"bottom"},
+		{"id":"bf3dea811517d815","fromNode":"64ab3906f2dc5370","fromSide":"right","toNode":"194900979f0ce0dc","toSide":"left"},
+		{"id":"0a57f974082dfb72","fromNode":"194900979f0ce0dc","fromSide":"right","toNode":"6b480fdb588c7c02","toSide":"top"}
+	]
+}
