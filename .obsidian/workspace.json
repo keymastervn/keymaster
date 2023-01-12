@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-01/20230110.md",
+                "file": "1. today i touch/2023-01/20230111.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6373daf0fe9d5006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-01/20230112.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-01/20230110.md",
+                "file": "1. today i touch/2023-01/20230112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +153,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "791a45e9bb6da90b",
+  "active": "6373daf0fe9d5006",
   "lastOpenFiles": [
+    "1. today i touch/2023-01/20230111.md",
+    "resources/Pasted image 20230111100038.png",
+    "2022-12-13.md",
+    "1. today i touch/2023-01/20230110.md",
     "1. today i touch/2023-01/20230109.md",
     "1. today i touch/2023-01/20230108.md",
     "1. today i touch/2023-01/20230106.md",
     "1. today i touch/2022-12/20221227.md",
     "1. today i touch/2022-12/20221228.md",
-    "1. today i touch/2023-01/20230102.md",
-    "1. today i touch/2023-01/20230104.md",
-    "1. today i touch/2023-01/20230105.md",
-    "career/mentoring/010 - authentication and authorization/4.Policy-based vs Role-based authorization.md",
-    "career/mentoring/010 - authentication and authorization/5.Feature flags.md"
+    "1. today i touch/2023-01/20230102.md"
   ]
 }
