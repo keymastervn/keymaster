@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc6bd0c1045ebd50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-01/20230117.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-01/20230116.md",
+                "file": "1. today i touch/2023-01/20230117.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +177,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "16f3bef4a1f2bdd2",
+  "active": "fc6bd0c1045ebd50",
   "lastOpenFiles": [
+    "1. today i touch/2023-01/20230116.md",
     "1. today i touch/2023-01/20230112.md",
     "1. today i touch/2023-01/20230111.md",
     "resources/Pasted image 20230111100038.png",
@@ -175,7 +188,6 @@
     "1. today i touch/2023-01/20230109.md",
     "1. today i touch/2023-01/20230108.md",
     "1. today i touch/2023-01/20230106.md",
-    "1. today i touch/2022-12/20221227.md",
-    "1. today i touch/2022-12/20221228.md"
+    "1. today i touch/2022-12/20221227.md"
   ]
 }
