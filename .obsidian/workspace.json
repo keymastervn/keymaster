@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3acaefd0d55946",
+        "id": "d82679b691f7e394",
         "type": "tabs",
         "children": [
           {
-            "id": "5957e433bcf8abe6",
+            "id": "ee315b9dfd78fcc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-02/20230214.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,12 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-02/20230214.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "20230217142345",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -104,17 +99,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5957e433bcf8abe6",
+  "active": "ee315b9dfd78fcc2",
   "lastOpenFiles": [
-    "1. today i touch/2023-02/20230213.md",
+    "1. today i touch/2023-02/20230217.md",
+    "1. today i touch/2023-02/20230216.md",
+    "Presentations/20230217 - Code Review Guidelines.md",
+    "Presentations/README.md",
+    "Pasted image 20230217142345.png.md",
+    "resources/Pasted image 20230217142345.png",
     "1. today i touch/2023-02/20230214.md",
-    "1. today i touch/2023-02/20230207.md",
-    "1. today i touch/2023-02/20230210.md",
-    "1. today i touch/2023-02/20230212.md",
-    "software engineering/README.md",
-    "1. today i touch/2023-02/20230208.md",
-    "1. today i touch/2023-02/20230209.md",
-    "20230207 - dashboard.md",
-    "1. today i touch/2023-02/20230203.md"
+    "1. today i touch/2023-02/20230215.md",
+    "1. today i touch/2023-02/20230213.md",
+    "1. today i touch/2023-02/20230207.md"
   ]
 }
