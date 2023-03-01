@@ -19,3 +19,21 @@ A demo on how to build presentations using Slides.
 
 ## Slides Use `---` to separate slides.
 ```
+
+
+#### Limitation
+- short pages
+- can't navigate up and down like some presentations
+- can't jump directly to a page
+- no ToC to navigate
+
+#### Good
+- damn quick building
+- damn smooth
+- markdown => easy
+
+#### Export 
+<style>
+  /* To help export pages line by lines */
+  @media print { hr { page-break-after: always; } }
+</style>

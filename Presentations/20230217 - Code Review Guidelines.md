@@ -1,3 +1,4 @@
+
 # Code Review Guidelines
 
 A lightning talk about doing code review **properly**
@@ -185,3 +186,8 @@ So, I will send it to another one, says the *Law of Cause and Effect*
 - [# How to write code review comments](https://google.github.io/eng-practices/review/reviewer/comments.html)
 - [Awesome code review's good reads](https://github.com/joho/awesome-code-review#articles)
 - [Sandi Metz' Rules For Developers](https://thoughtbot.com/blog/sandi-metz-rules-for-developers)
+
+<style>
+  /* To help export pages line by lines */
+  @media print { hr { page-break-after: always; } }
+</style>
