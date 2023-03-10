@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b0f5b51cac76d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentations/20230305 - 12 factors app and beyond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03dbb03bed4c803a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230306.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07a86832b4f80881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentations/20230305 - 12 factors app and beyond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-03/20230303.md",
+                "file": "Presentations/20230305 - 12 factors app and beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +167,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ee5d9a183078eeed",
+  "active": "07a86832b4f80881",
   "lastOpenFiles": [
+    "1. today i touch/2023-03/20230308.md",
+    "Presentations/20230305 - 12 factors app and beyond.md",
+    "Presentations/20230217 - Code Review Guidelines.md",
+    "1. today i touch/2023-03/20230306.md",
+    "1. today i touch/2023-03/20230303.md",
     "1. today i touch/2023-03/20230301.md",
     "1. today i touch/2023-02/20230227.md",
     "1. today i touch/2023-02/20230216.md",
     "1. today i touch/2023-02/20230219.md",
-    "1. today i touch/2023-02/20230220.md",
-    "1. today i touch/2023-02/20230223.md",
-    "Presentations/20230217 - Code Review Guidelines.md",
-    "Presentations/README.md",
-    "1. today i touch/2023-02/20230217.md",
-    "Pasted image 20230217142345.png.md"
+    "1. today i touch/2023-02/20230220.md"
   ]
 }
