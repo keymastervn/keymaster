@@ -115,8 +115,8 @@ It's a sign that you care about your reviewer
 # Ethnic
 Don't be a bit too dark, software must be **happy ending** more than *drama*.
 
-Rule 1: always be constructive
-Rule 2: most of the time, you welcome replies as constructive feedbacks
+Rule 1: Always be constructive
+Rule 2: Most of the time, you welcome replies as constructive feedback
 
 --- 
 
@@ -134,7 +134,7 @@ I am confused about the reason this line of code is placed here?
 ❌
 Backend is not ready yet so this will crash the system if you have it merged
 ✅
-For this release, I'd suggest you to have the backend PR merged first, then following up by this one
+For this release, I'd suggest you have the backend PR merged first, then following up by this one
 🌟(Better)
 As the backend is not ready yet, how about adding a flag to control and release once it is ready? To me it is safer.
 
@@ -144,9 +144,9 @@ As the backend is not ready yet, how about adding a flag to control and release 
 ❌
 You are using hash which is not efficient, you will change to set, won't you?
 ✅
-AFAIK, using hash is neither a solid interface nor bad memory GC, the Set data structure is well supported for this kind of requirement.
+AFAIK, using a hash is neither a solid interface nor bad memory GC, the Set data structure is well supported for this kind of requirement.
 🌟(Better)
-Here is benchmark wheras Set is x% efficient is iops/mem, also less LOC. \`\`\`suggestion 
+Here is benchmark whereas Set is x% efficient in iops/mem, also less LOC. \`\`\`suggestion 
 
 ---
 
@@ -154,7 +154,7 @@ Here is benchmark wheras Set is x% efficient is iops/mem, also less LOC. \`\`\`s
 ❌
 You should use this function when getting to init the component.
 ✅
-In order to handle errors better, let use this function as it has a rich content on errors so you can render it to the user, or treat the unhappy cases differently.
+In order to handle errors better, let's use this function as it has rich content on errors so you can render it to the user, or treat the unhappy cases differently.
 
 --- 
 
@@ -162,7 +162,7 @@ In order to handle errors better, let use this function as it has a rich content
 ❌
 Function XYZ is obviously the same as ABC
 ✅
-I believe function ABC can provide same functionality could you check it please?
+I believe function ABC can provide the same functionality could you check it, please?
 
 ---
 
