@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cef3e0320e45090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230316.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "359221db9f50a982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230319.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a0e15d9cb81f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230320.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf5d7f0150d63678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230321.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -90,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-03/20230315.md",
+                "file": "1. today i touch/2023-03/20230321.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +167,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "09accbca6d5a1b61",
+  "active": "bf5d7f0150d63678",
   "lastOpenFiles": [
-    "1. today i touch/2023-03/20230314.md",
+    "resources/Pasted image 20230321184824.png",
+    "1. today i touch/2023-03/20230320.md",
+    "1. today i touch/2023-03/20230321.md",
+    "1. today i touch/2023-03/20230319.md",
+    "1. today i touch/2023-03/20230316.md",
     "1. today i touch/2023-03/20230315.md",
+    "1. today i touch/2023-03/20230314.md",
     "resources/Pasted image 20230314160929.png",
     "1. today i touch/2023-03/20230313.md",
     "Presentations/20230217 - Code Review Guidelines.md",
