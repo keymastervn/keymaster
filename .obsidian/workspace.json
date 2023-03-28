@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76e13ea802d72413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230324.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53973b2bf0e6d6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230325.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b146494b29c3fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230327.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ce17a6c57389acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230328.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -138,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-03/20230321.md",
+                "file": "1. today i touch/2023-03/20230328.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +215,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bf5d7f0150d63678",
+  "active": "1ce17a6c57389acc",
   "lastOpenFiles": [
+    "1. today i touch/2023-03/20230327.md",
+    "1. today i touch/2023-03/20230328.md",
+    "1. today i touch/2023-03/20230325.md",
+    "resources/Screenshot 2023-03-27 at 16.37.13.png",
+    "1. today i touch/2023-03/20230324.md",
+    "resources/Pasted image 20230324113842.png",
+    "1. today i touch/2023-03/20230321.md",
     "resources/Pasted image 20230321184824.png",
     "1. today i touch/2023-03/20230320.md",
-    "1. today i touch/2023-03/20230321.md",
     "1. today i touch/2023-03/20230319.md",
     "1. today i touch/2023-03/20230316.md",
     "1. today i touch/2023-03/20230315.md",
