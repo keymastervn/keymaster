@@ -126,9 +126,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a3abaf0aac0c548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-03/20230331.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b6b01e2f8692336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-04/20230401.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b180dd0f1da62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-04/20230402.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -186,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-03/20230328.md",
+                "file": "1. today i touch/2023-04/20230402.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,10 +251,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ce17a6c57389acc",
+  "active": "84b180dd0f1da62a",
   "lastOpenFiles": [
-    "1. today i touch/2023-03/20230327.md",
+    "1. today i touch/2023-04/20230401.md",
+    "1. today i touch/2023-04/20230402.md",
+    "1. today i touch/2023-03/20230331.md",
+    "resources/Screenshot 2023-04-01 at 16.57.46.png",
+    "1. today i touch/2023-04",
+    "resources/Pasted image 20230331132801.png",
     "1. today i touch/2023-03/20230328.md",
+    "1. today i touch/2023-03/20230327.md",
     "1. today i touch/2023-03/20230325.md",
     "resources/Screenshot 2023-03-27 at 16.37.13.png",
     "1. today i touch/2023-03/20230324.md",
