@@ -4,167 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "812d754f9e6e4160",
+        "id": "9325f7b9aa3be981",
         "type": "tabs",
         "children": [
           {
-            "id": "64d30a4f703a2c1e",
+            "id": "cbf00a2b53dd7fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-03/20230314.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09accbca6d5a1b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230315.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cef3e0320e45090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230316.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "359221db9f50a982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230319.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a0e15d9cb81f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230320.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf5d7f0150d63678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230321.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e13ea802d72413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230324.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53973b2bf0e6d6cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230325.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b146494b29c3fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230327.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ce17a6c57389acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230328.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a3abaf0aac0c548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-03/20230331.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b6b01e2f8692336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-04/20230401.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84b180dd0f1da62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-04/20230402.md",
+                "file": "Presentations/20230305 - 12 factors app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-04/20230402.md",
+                "file": "Presentations/20230305 - 12 factors app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,41 +106,52 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "84b180dd0f1da62a",
+  "active": "4a6056577ee4ce8e",
   "lastOpenFiles": [
-    "1. today i touch/2023-04/20230401.md",
+    "Presentations/templates/marp-bespoke.md",
+    "Presentations/20230405 - Splitting the monolith (part 1).md",
+    "Presentations/resources/20230405_strangler_fig_selective_consumption.png",
+    "Presentations/resources/20230405_strangler_fig_selective.png",
+    "Presentations/resources/Screenshot 2023-04-06 at 14.52.51.png",
+    "Presentations/resources/20230405_strangler_fig_content-based-queue_done.png",
+    "Presentations/resources/Screenshot 2023-04-06 at 14.44.27.png",
+    "Presentations/resources/20230405_strangler_fig_content-based-queue.png",
+    "Presentations/resources/Screenshot 2023-04-06 at 14.41.04.png",
+    "Presentations/resources/20230405_strangler_fig_example1_servicemesh.png",
+    "Presentations/resources/Screenshot 2023-03-05 at 16.59.24.png",
+    "Presentations/resources/20230405_strangler_fig_example-httpproxy.png",
+    "Presentations/resources/20230405_bba_step4_2.png.sb-2f001a55-yTc5Ki",
+    "resource/strangler_fig_tree.png.md",
+    "resource",
+    "Presentations/README.md",
+    "Presentations/20230305 - 12 factors app.md",
+    "Presentations/abcd.html",
+    "Screenshot 2023-04-05 at 14.17.22.png.md",
+    "Presentations/abc.html",
+    "Presentations/20230217 - Code Review Guidelines.md",
+    "Presentations/resources",
+    "Presentations/templates/marp-bespoke-.html",
+    "Presentations/20230405 - Splitting a microservices (part 1).html",
+    "1. today i touch/2023-04/20230403.md",
+    "1. today i touch/2023-04/20230404.md",
+    "1. today i touch/2023-04/20230405.md",
+    "Presentations/templates",
     "1. today i touch/2023-04/20230402.md",
+    "1. today i touch/2023-04/20230401.md",
     "1. today i touch/2023-03/20230331.md",
-    "resources/Screenshot 2023-04-01 at 16.57.46.png",
     "1. today i touch/2023-04",
-    "resources/Pasted image 20230331132801.png",
     "1. today i touch/2023-03/20230328.md",
     "1. today i touch/2023-03/20230327.md",
     "1. today i touch/2023-03/20230325.md",
-    "resources/Screenshot 2023-03-27 at 16.37.13.png",
     "1. today i touch/2023-03/20230324.md",
-    "resources/Pasted image 20230324113842.png",
     "1. today i touch/2023-03/20230321.md",
-    "resources/Pasted image 20230321184824.png",
     "1. today i touch/2023-03/20230320.md",
     "1. today i touch/2023-03/20230319.md",
     "1. today i touch/2023-03/20230316.md",
     "1. today i touch/2023-03/20230315.md",
     "1. today i touch/2023-03/20230314.md",
-    "resources/Pasted image 20230314160929.png",
     "1. today i touch/2023-03/20230313.md",
-    "Presentations/20230217 - Code Review Guidelines.md",
-    "resources/Screenshot 2023-03-14 at 09.29.19.png",
-    "resources/Screenshot 2023-03-14 at 09.27.39.png",
     "1. today i touch/2023-03/Untitled",
-    "Presentations/20230305 - 12 factors app.md",
-    "1. today i touch/2023-03/20230308.md",
-    "1. today i touch/2023-03/20230306.md",
-    "1. today i touch/2023-03/20230303.md",
-    "1. today i touch/2023-03/20230301.md",
-    "1. today i touch/2023-02/20230227.md",
-    "1. today i touch/2023-02/20230216.md",
-    "1. today i touch/2023-02/20230219.md",
-    "1. today i touch/2023-02/20230220.md"
+    "1. today i touch/2023-03/20230308.md"
   ]
 }

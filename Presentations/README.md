@@ -1,3 +1,5 @@
+
+## Obsidian Slides
 - https://help.obsidian.md/Plugins/Slides
 
 To view slides, you'll need to enable the "Slides" plugin.  
@@ -37,3 +39,18 @@ A demo on how to build presentations using Slides.
   /* To help export pages line by lines */
   @media print { hr { page-break-after: always; } }
 </style>
+
+## Marp
+
+https://github.com/marp-team/marp-cli 
+- with Bespoke.js for animations https://github.com/marp-team/marp-cli/blob/main/docs/bespoke-transitions/README.md
+
+### Install
+```
+npm install -g @marp-team/marp-cli
+```
+
+### Usage
+```
+marp slide.md -o output.html --allow-local-files
+```
