@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9325f7b9aa3be981",
+        "id": "1ef0c07439ac1587",
         "type": "tabs",
         "children": [
           {
-            "id": "cbf00a2b53dd7fa6",
+            "id": "f81fe68369c28012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentations/20230305 - 12 factors app.md",
+                "file": "1. today i touch/2023-04/20230407.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/20230305 - 12 factors app.md",
+                "file": "1. today i touch/2023-04/20230407.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4a6056577ee4ce8e",
+  "active": "f81fe68369c28012",
   "lastOpenFiles": [
+    "Presentations/20230305 - 12 factors app.md",
+    "1. today i touch/2023-04/20230405.md",
+    "1. today i touch/2023-04/20230407.md",
+    "Presentations/20230405 - Splitting the monolith (part 1)/splitting_the_monolith_pt1.zip",
+    "Presentations/20230405 - Splitting the monolith (part 1)/Archive.zip",
+    "resources/Pasted image 20230407100047.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/ppt.html",
     "Presentations/20230405 - Splitting the monolith (part 1)/ppt.md",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_ui_composition_widget.png",
@@ -119,7 +125,6 @@
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_example1_servicemesh.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_example-httpproxy.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_content-based-queue_done.png",
-    "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_content-based-queue.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources",
     "Presentations/20230405 - Splitting the monolith (part 1)/20230405 - Splitting the monolith (part 1).md",
     "Presentations/20230405 - Splitting the monolith (part 1)",
@@ -130,17 +135,12 @@
     "resource/strangler_fig_tree.png.md",
     "resource",
     "Presentations/README.md",
-    "Presentations/20230305 - 12 factors app.md",
     "Presentations/abcd.html",
     "Screenshot 2023-04-05 at 14.17.22.png.md",
     "Presentations/abc.html",
     "Presentations/20230217 - Code Review Guidelines.md",
-    "Presentations/resources",
-    "Presentations/templates/marp-bespoke-.html",
-    "Presentations/20230405 - Splitting a microservices (part 1).html",
     "1. today i touch/2023-04/20230403.md",
     "1. today i touch/2023-04/20230404.md",
-    "1. today i touch/2023-04/20230405.md",
     "1. today i touch/2023-04/20230402.md",
     "1. today i touch/2023-04/20230401.md",
     "1. today i touch/2023-03/20230331.md",
@@ -152,7 +152,6 @@
     "1. today i touch/2023-03/20230320.md",
     "1. today i touch/2023-03/20230319.md",
     "1. today i touch/2023-03/20230316.md",
-    "1. today i touch/2023-03/20230315.md",
-    "1. today i touch/2023-03/20230314.md"
+    "1. today i touch/2023-03/20230315.md"
   ]
 }
