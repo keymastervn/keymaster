@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f81fe68369c28012",
+            "id": "69eab67df8cddca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-04/20230407.md",
+                "file": "1. today i touch/2023-04/20230414.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e178e3e8eb1e330c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-04/20230415.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-04/20230407.md",
+                "file": "1. today i touch/2023-04/20230415.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +119,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f81fe68369c28012",
+  "active": "e178e3e8eb1e330c",
   "lastOpenFiles": [
+    "1. today i touch/2023-04/20230414.md",
+    "1. today i touch/2023-04/20230415.md",
+    "1. today i touch/2023-04/20230413.md",
+    "resources/Screenshot 2023-04-14 at 12.14.59.png",
+    "1. today i touch/2023-04/20230412.md",
+    "1. today i touch/2023-04/Untitled",
+    "resources/Pasted image 20230412093945.png",
+    "1. today i touch/2023-04/20230411.md",
+    "1. today i touch/2023-04/20230410.md",
+    "1. today i touch/2023-04/20230407.md",
+    "Presentations/20230405 - Splitting the monolith (part 1)/splitting_the_monolith_part1.zip",
+    "Presentations/20230405 - Splitting the monolith (part 1)/Archive.zip",
     "Presentations/20230305 - 12 factors app.md",
     "1. today i touch/2023-04/20230405.md",
-    "1. today i touch/2023-04/20230407.md",
     "Presentations/20230405 - Splitting the monolith (part 1)/splitting_the_monolith_pt1.zip",
-    "Presentations/20230405 - Splitting the monolith (part 1)/Archive.zip",
     "resources/Pasted image 20230407100047.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/ppt.html",
     "Presentations/20230405 - Splitting the monolith (part 1)/ppt.md",
@@ -123,8 +146,6 @@
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_steps.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_selective_consumption.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_example1_servicemesh.png",
-    "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_example-httpproxy.png",
-    "Presentations/20230405 - Splitting the monolith (part 1)/resources/20230405_strangler_fig_content-based-queue_done.png",
     "Presentations/20230405 - Splitting the monolith (part 1)/resources",
     "Presentations/20230405 - Splitting the monolith (part 1)/20230405 - Splitting the monolith (part 1).md",
     "Presentations/20230405 - Splitting the monolith (part 1)",
@@ -135,9 +156,7 @@
     "resource/strangler_fig_tree.png.md",
     "resource",
     "Presentations/README.md",
-    "Presentations/abcd.html",
     "Screenshot 2023-04-05 at 14.17.22.png.md",
-    "Presentations/abc.html",
     "Presentations/20230217 - Code Review Guidelines.md",
     "1. today i touch/2023-04/20230403.md",
     "1. today i touch/2023-04/20230404.md",
@@ -147,11 +166,6 @@
     "1. today i touch/2023-03/20230328.md",
     "1. today i touch/2023-03/20230327.md",
     "1. today i touch/2023-03/20230325.md",
-    "1. today i touch/2023-03/20230324.md",
-    "1. today i touch/2023-03/20230321.md",
-    "1. today i touch/2023-03/20230320.md",
-    "1. today i touch/2023-03/20230319.md",
-    "1. today i touch/2023-03/20230316.md",
-    "1. today i touch/2023-03/20230315.md"
+    "1. today i touch/2023-03/20230324.md"
   ]
 }
