@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ef0c07439ac1587",
+        "id": "3b13590e52f98dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "69eab67df8cddca2",
+            "id": "1dd3a1d2a442768a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-04/20230414.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e178e3e8eb1e330c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-04/20230415.md",
+                "file": "1. today i touch/2023-04/20230418.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-04/20230415.md",
+                "file": "1. today i touch/2023-04/20230418.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +106,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e178e3e8eb1e330c",
+  "active": "1dd3a1d2a442768a",
   "lastOpenFiles": [
-    "1. today i touch/2023-04/20230414.md",
+    "1. today i touch/2023-04/20230417.md",
+    "1. today i touch/2023-04/20230418.md",
     "1. today i touch/2023-04/20230415.md",
+    "1. today i touch/2023-04/20230416.md",
+    "1. today i touch/2023-04/20230414.md",
+    "Presentations/20230415 - 15 cloud-native factors (beyong 12 factors app).md",
     "1. today i touch/2023-04/20230413.md",
     "resources/Screenshot 2023-04-14 at 12.14.59.png",
     "1. today i touch/2023-04/20230412.md",
@@ -162,10 +153,6 @@
     "1. today i touch/2023-04/20230404.md",
     "1. today i touch/2023-04/20230402.md",
     "1. today i touch/2023-04/20230401.md",
-    "1. today i touch/2023-03/20230331.md",
-    "1. today i touch/2023-03/20230328.md",
-    "1. today i touch/2023-03/20230327.md",
-    "1. today i touch/2023-03/20230325.md",
-    "1. today i touch/2023-03/20230324.md"
+    "1. today i touch/2023-03/20230331.md"
   ]
 }
