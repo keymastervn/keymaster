@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28f4af8d8a73f3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-05/20230505.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-05/20230504.md",
+                "file": "1. today i touch/2023-05/20230505.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +119,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "90ac35b98e91fbad",
+  "active": "28f4af8d8a73f3df",
   "lastOpenFiles": [
-    "1. today i touch/2023-04/20230428.md",
+    "resources/Pasted image 20230505094718.png",
+    "resources/Pasted image 20230505094653.png",
     "1. today i touch/2023-05/20230504.md",
+    "1. today i touch/2023-05/20230505.md",
+    "1. today i touch/2023-04/20230428.md",
     "1. today i touch/2023-05",
     "1. today i touch/2023-04/Untitled",
     "1. today i touch/2023-04/20230427.md",
@@ -141,7 +157,6 @@
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/image-20230420-065929.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_2.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/image-20230420-071834.png",
-    "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_1.png",
     "Presentations/README.md",
     "Presentations/20230420 - Splitting the monolith (part 2)/splitting_the_monolith_part1.zip",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources",
@@ -151,8 +166,6 @@
     "Presentations/20230405 - Splitting the monolith (part 1) copy/ppt.html",
     "Presentations/20230405 - Splitting the monolith (part 1) copy/ppt.md",
     "Presentations/20230405 - Splitting the monolith (part 1) copy/resources",
-    "1. today i touch/2023-04/20230418.md",
-    "1. today i touch/2023-04/20230417.md",
-    "1. today i touch/2023-04/20230415.md"
+    "1. today i touch/2023-04/20230418.md"
   ]
 }
