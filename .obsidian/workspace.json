@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8082ac60f322172f",
+        "id": "68129f1290511b2f",
         "type": "tabs",
         "children": [
           {
-            "id": "90ac35b98e91fbad",
+            "id": "dddc300e08f2af86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-05/20230504.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28f4af8d8a73f3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-05/20230505.md",
+                "file": "1. today i touch/2023-05/20230512.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-05/20230505.md",
+                "file": "1. today i touch/2023-05/20230512.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +106,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "28f4af8d8a73f3df",
+  "active": "dddc300e08f2af86",
   "lastOpenFiles": [
+    "1. today i touch/2023-05/20230512.md",
+    "1. today i touch/2023-05/20230507.md",
+    "1. today i touch/2023-05/20230509.md",
+    "1. today i touch/2023-05/20230504.md",
+    "1. today i touch/2023-05/20230505.md",
     "resources/Pasted image 20230412093945.png.sb-2f001a55-EuqeOx",
     "resources/Screenshot 2023-04-14 at 12.14.59.png~",
     "resources/Screenshot 2023-04-01 at 16.57.46.png~",
@@ -131,9 +123,6 @@
     "resources/Screen Shot 2022-12-17 at 16.45.50.png~",
     "resources/Screen Shot 2022-11-01 at 12.12.46.png~",
     "resources/Screen Shot 2022-11-01 at 12.11.09.png~",
-    "resources/Screen Shot 2022-10-10 at 13.56.13.png~",
-    "1. today i touch/2023-05/20230504.md",
-    "1. today i touch/2023-05/20230505.md",
     "resources/Pasted image 20230505094718.png",
     "resources/Pasted image 20230505094653.png",
     "1. today i touch/2023-04/20230428.md",
@@ -164,8 +153,6 @@
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_3.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/image-20230420-065929.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_2.png",
-    "Presentations/README.md",
-    "Presentations/20230405 - Splitting the monolith (part 1) copy/ppt.md",
-    "1. today i touch/2023-04/20230418.md"
+    "Presentations/README.md"
   ]
 }
