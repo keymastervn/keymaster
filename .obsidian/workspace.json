@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "416af2339750e206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-05/20230514.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36c318cac3ac6ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-05/20230516.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-05/20230512.md",
+                "file": "1. today i touch/2023-05/20230516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +131,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dddc300e08f2af86",
+  "active": "36c318cac3ac6ec7",
   "lastOpenFiles": [
+    "1. today i touch/2023-05/20230514.md",
+    "1. today i touch/2023-05/20230516.md",
     "1. today i touch/2023-05/20230512.md",
     "1. today i touch/2023-05/20230507.md",
     "1. today i touch/2023-05/20230509.md",
@@ -145,14 +172,12 @@
     "1. today i touch/2023-04/20230420.md",
     "1. today i touch/2023-04/20230419.md",
     "Untitled.md",
-    "Presentations/20230420 - Splitting the monolith (part 2)/ppt.md",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_5.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/image-20230420-073132.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_4.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/image-20230420-072044.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_3.png",
     "Presentations/20230420 - Splitting the monolith (part 2)/resources/image-20230420-065929.png",
-    "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_2.png",
-    "Presentations/README.md"
+    "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_2.png"
   ]
 }
