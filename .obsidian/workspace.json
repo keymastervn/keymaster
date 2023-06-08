@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-06/20230604.md",
+                "file": "1. today i touch/2023-06/20230605.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf14f8dc04b07878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. today i touch/2023-06/20230607.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-06/20230604.md",
+                "file": "1. today i touch/2023-06/20230607.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +127,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "693db2779ffd8d44",
+  "active": "bf14f8dc04b07878",
   "lastOpenFiles": [
+    "1. today i touch/2023-06/20230606.md",
+    "1. today i touch/2023-06/20230607.md",
+    "1. today i touch/2023-06/20230605.md",
+    "1. today i touch/2023-06/20230604.md",
+    "resources/Pasted image 20230605102911.png",
     "resources/Screenshot 2023-06-04 at 11.43.10.png",
     "1. today i touch/2023-06/20230602.md",
-    "1. today i touch/2023-06/20230604.md",
     "1. today i touch/2023-06/20230601.md",
     "resources/Screenshot 2023-06-01 at 13.34.55.png",
     "1. today i touch/2023-06",
@@ -144,8 +161,6 @@
     "1. today i touch/2023-04/20230415.md",
     "1. today i touch/2022-05/20220531.md",
     "1. today i touch/2023-05/20230524.md",
-    "1. today i touch/2022-04/20220426.md",
-    "1. today i touch/2022-04/20220425.md",
     "resources/Screenshot 2023-05-24 at 15.21.53.png",
     "resources/Screenshot 2023-05-21 at 22.00.43.png",
     "resources/Screenshot 2023-05-21 at 17.30.36.png",
@@ -159,8 +174,6 @@
     "resources/Screen Shot 2022-12-17 at 16.45.50.png~",
     "resources/Screen Shot 2022-11-01 at 12.12.46.png~",
     "resources/Pasted image 20230505094718.png",
-    "resources/Pasted image 20230505094653.png",
-    "resources/Pasted image 20230425153936.png",
-    "Presentations/20230420 - Splitting the monolith (part 2)/resources/p6_5.png"
+    "resources/Pasted image 20230505094653.png"
   ]
 }
