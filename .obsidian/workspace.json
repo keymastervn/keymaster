@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "27df9aff21b5425f",
+        "id": "a0c1c4f02b31f60b",
         "type": "tabs",
         "children": [
           {
-            "id": "693db2779ffd8d44",
+            "id": "5687c09b20704c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-06/20230605.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf14f8dc04b07878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. today i touch/2023-06/20230612.md",
+                "file": "1. today i touch/2023-06/20230616.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-06/20230612.md",
+                "file": "1. today i touch/2023-06/20230616.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +114,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bf14f8dc04b07878",
+  "active": "5687c09b20704c30",
   "lastOpenFiles": [
-    "resources/Pasted image 20230612225327.png",
+    "1. today i touch/2023-06/20230615.md",
+    "1. today i touch/2023-06/20230616.md",
+    "1. today i touch/2023-06/20230613.md",
+    "1. today i touch/2023-06/20230614.md",
     "1. today i touch/2023-06/20230609.md",
     "1. today i touch/2023-06/20230612.md",
+    "1. today i touch/2023-06/20230605.md",
+    "1. today i touch/2023-06/20230608.md",
+    "resources/Pasted image 20230612225327.png",
     "1. today i touch/2023-06/20230606.md",
     "1. today i touch/2023-06/20230607.md",
-    "1. today i touch/2023-06/20230608.md",
-    "1. today i touch/2023-06/20230605.md",
     "1. today i touch/2023-06/20230604.md",
     "resources/Pasted image 20230605102911.png",
     "resources/Screenshot 2023-06-04 at 11.43.10.png",
@@ -158,9 +149,6 @@
     "1. today i touch/2023-01/20230112.md",
     "1. today i touch/2023-02/20230215.md",
     "1. today i touch/2023-03/20230303.md",
-    "1. today i touch/2023-05/20230512.md",
-    "1. today i touch/2023-03/20230320.md",
-    "1. today i touch/2023-04/20230413.md",
     "resources/Screenshot 2023-05-24 at 15.21.53.png",
     "resources/Screenshot 2023-05-21 at 22.00.43.png",
     "resources/Screenshot 2023-05-21 at 17.30.36.png",
@@ -173,7 +161,6 @@
     "resources/Screen Shot 2023-01-16 at 09.07.13.png~",
     "resources/Screen Shot 2022-12-17 at 16.45.50.png~",
     "resources/Screen Shot 2022-11-01 at 12.12.46.png~",
-    "resources/Pasted image 20230505094718.png",
-    "resources/Pasted image 20230505094653.png"
+    "resources/Pasted image 20230505094718.png"
   ]
 }
