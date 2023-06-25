@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c1c4f02b31f60b",
+        "id": "da7dd427745101eb",
         "type": "tabs",
         "children": [
           {
-            "id": "5687c09b20704c30",
+            "id": "749d4fea38d80afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-06/20230616.md",
+                "file": "1. today i touch/2023-06/20230625.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-06/20230616.md",
+                "file": "1. today i touch/2023-06/20230625.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +114,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5687c09b20704c30",
+  "active": "749d4fea38d80afe",
   "lastOpenFiles": [
-    "1. today i touch/2023-06/20230615.md",
+    "1. today i touch/2023-06/20230624.md",
+    "1. today i touch/2023-06/20230625.md",
+    "resources/Screenshot 2023-06-25 at 07.18.05.png",
+    "resources/Pasted image 20230624140946.png",
+    "1. today i touch/2023-06/20230622.md",
+    "1. today i touch/2023-06/20230619.md",
+    "1. today i touch/2023-06/20230618.md",
+    "1. today i touch/2022-07/20220711.md",
     "1. today i touch/2023-06/20230616.md",
+    "1. today i touch/2023-06/20230615.md",
     "1. today i touch/2023-06/20230613.md",
     "1. today i touch/2023-06/20230614.md",
     "1. today i touch/2023-06/20230609.md",
@@ -142,16 +150,8 @@
     "1. today i touch/2023-05/20230528.md",
     "resources/Screenshot 2023-05-30 at 09.53.42.png",
     "1. today i touch/2022-12/20221204.md",
-    "1. today i touch/2022-12/20221208.md",
-    "1. today i touch/2022-12/20221214.md",
-    "1. today i touch/2022-12/20221222.md",
-    "1. today i touch/2022-12/20221223.md",
-    "1. today i touch/2023-01/20230112.md",
-    "1. today i touch/2023-02/20230215.md",
-    "1. today i touch/2023-03/20230303.md",
     "resources/Screenshot 2023-05-24 at 15.21.53.png",
     "resources/Screenshot 2023-05-21 at 22.00.43.png",
-    "resources/Screenshot 2023-05-21 at 17.30.36.png",
     "resources/Pasted image 20230412093945.png.sb-2f001a55-EuqeOx",
     "resources/Screenshot 2023-04-14 at 12.14.59.png~",
     "resources/Screenshot 2023-04-01 at 16.57.46.png~",
@@ -160,7 +160,6 @@
     "resources/Screenshot 2023-02-17 at 14.15.25.png~",
     "resources/Screen Shot 2023-01-16 at 09.07.13.png~",
     "resources/Screen Shot 2022-12-17 at 16.45.50.png~",
-    "resources/Screen Shot 2022-11-01 at 12.12.46.png~",
-    "resources/Pasted image 20230505094718.png"
+    "resources/Screen Shot 2022-11-01 at 12.12.46.png~"
   ]
 }
