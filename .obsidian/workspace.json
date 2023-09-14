@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "278b7e42c1c7ca3f",
+        "id": "55014ee5b2c29fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "9beeda1427111058",
+            "id": "8203aa4d5133ad3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-09/20230911.md",
+                "file": "1. today i touch/2023-09/20230913.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-09/20230911.md",
+                "file": "1. today i touch/2023-09/20230913.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +114,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9beeda1427111058",
+  "active": "8203aa4d5133ad3a",
   "lastOpenFiles": [
+    "1. today i touch/2023-09/20230914.md",
+    "1. today i touch/2023-09/20230913.md",
+    "1. today i touch/README.md",
+    "resources/Screenshot 2023-09-14 at 11.56.46.png",
+    "resources/Screenshot 2023-09-14 at 11.41.10.png",
+    "1. today i touch/2023-09/20230912.md",
+    "1. today i touch/2023-09/20230911.md",
+    "Presentations/README.md",
+    "Presentations/20230217 - Code Review Guidelines.md",
+    "1. today i touch/2023-09/20230909.md",
+    "1. today i touch/2023-09/20230908.md",
+    "1. today i touch/2023-09/20230902.md",
     "resources/Screenshot 2023-09-11 at 18.15.07.png",
     "1. today i touch/2022-09/20220922.md",
-    "1. today i touch/2023-09/20230911.md",
-    "1. today i touch/2023-09/20230909.md",
-    "1. today i touch/2023-09/20230902.md",
-    "1. today i touch/2023-09/20230908.md",
     "1. today i touch/2023-08/20230815.md",
     "1. today i touch/2023-06/20230629.md",
     "resources/Pasted image 20230908123138.png",
@@ -140,20 +148,11 @@
     "1. today i touch/2023-08/20230804.md",
     "1. today i touch/2023-08/20230811.md",
     "1. today i touch/2023-08/20230812.md",
-    "1. today i touch/2023-08/20230817.md",
     "resources/Pasted image 20230817105732.png",
-    "1. today i touch/2023-08/20230806.md",
-    "1. today i touch/2023-08/20230810.md",
-    "1. today i touch/2023-08/20230808.md",
-    "1. today i touch/2023-08/20230809.md",
     "resources/Pasted image 20230811005520.png",
     "resources/Screenshot 2023-08-10 at 14.01.17.png",
     "resources/Pasted image 20230810094549.png",
-    "resources/Pasted image 20230810094111.png",
-    "resources/Pasted image 20230808105618.png",
-    "1. today i touch/2023-07/20230730.md",
     "1. today i touch/2023-08",
-    "resources/Screenshot 2023-07-28 at 12.43.56.png",
     "canvas/topic.size.flow - First canvas.canvas",
     "resources/ML system design case studies.csv",
     "1. today i touch/2023-07",
