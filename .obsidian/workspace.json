@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-09/20230922.md",
+                "file": "1. today i touch/2023-09/20230924.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "christoph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-09/20230922.md",
+                "file": "1. today i touch/2023-09/20230924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +115,25 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "267d325ba4e6d194",
+  "active": "42430940cf18bb22",
   "lastOpenFiles": [
+    "1. today i touch/2023-09/20230923.md",
+    "1. today i touch/2023-09/20230924.md",
+    "resources/Screenshot 2023-09-23 at 12.09.53.png",
+    "1. today i touch/README.md",
+    "career/working culture/8. manifestion.md",
+    "career/working culture/7. plan is the first-class citizen.md",
+    "career/working culture/6. build a second brain.md",
+    "career/working culture/5. bonding.md",
+    "career/working culture/4. attention to detail, be extremely specific.md",
+    "career/working culture/3. amplification mindset in productivity.md",
+    "software engineering/README.md",
+    "1. today i touch/2023-09/20230922.md",
     "resources/Pasted image 20230922094732.png",
     "1. today i touch/2023-09/20230919.md",
-    "1. today i touch/2023-09/20230922.md",
     "1. today i touch/2023-09/20230920.md",
     "1. today i touch/2023-09/20230918.md",
     "resources/Pasted image 20230920165124.png",
-    "1. today i touch/README.md",
     "1. today i touch/2023-09/20230917.md",
     "1. today i touch/2023-09/20230916.md",
     "1. today i touch/2023-06/20230613.md",
@@ -138,21 +149,11 @@
     "Presentations/20230217 - Code Review Guidelines.md",
     "1. today i touch/2023-09/20230909.md",
     "1. today i touch/2023-09/20230908.md",
-    "1. today i touch/2023-09/20230902.md",
     "resources/Screenshot 2023-09-11 at 18.15.07.png",
-    "1. today i touch/2022-09/20220922.md",
-    "1. today i touch/2023-08/20230815.md",
-    "1. today i touch/2023-06/20230629.md",
     "resources/Pasted image 20230908123138.png",
-    "1. today i touch/2023-08/20230829.md",
-    "1. today i touch/2023-08/20230828.md",
     "1. today i touch/2023-09",
-    "1. today i touch/2023-08/20230827.md",
-    "1. today i touch/2023-08/20230818.md",
     "resources/Pasted image 20230822171403.png",
     "resources/Screenshot 2023-08-22 at 17.12.49.png",
-    "resources/Pasted image 20230817105732.png",
-    "resources/Pasted image 20230811005520.png",
     "1. today i touch/2023-08",
     "canvas/topic.size.flow - First canvas.canvas",
     "resources/ML system design case studies.csv",
