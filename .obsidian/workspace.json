@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3deb14f94f74ec71",
+        "id": "0d4ca4bf1550a584",
         "type": "tabs",
         "children": [
           {
-            "id": "267d325ba4e6d194",
+            "id": "1f13ebaead2782ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-09/20230927.md",
+                "file": "1. today i touch/2023-09/20230928.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-09/20230927.md",
+                "file": "1. today i touch/2023-09/20230928.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "267d325ba4e6d194",
+  "active": "4a6056577ee4ce8e",
   "lastOpenFiles": [
+    "1. today i touch/2023-01/20230116.md",
+    "1. today i touch/2023-09/20230928.md",
+    "1. today i touch/2023-09/20230927.md",
     "resources/Screenshot 2023-09-27 at 19.06.24.png",
     "1. today i touch/2023-09/20230909.md",
     "1. today i touch/2023-09/20230911.md",
@@ -124,7 +127,6 @@
     "1. today i touch/2023-09/20230914.md",
     "1. today i touch/2023-09/20230915.md",
     "1. today i touch/2023-09/20230919.md",
-    "1. today i touch/2023-09/20230927.md",
     "1. today i touch/README.md",
     "1. today i touch/2023-09/20230924.md",
     "1. today i touch/2023-09/20230916.md",
@@ -147,12 +149,10 @@
     "resources/Pasted image 20230918175243.png",
     "resources/Screenshot 2023-09-14 at 11.56.46.png",
     "resources/Screenshot 2023-09-14 at 11.41.10.png",
-    "Presentations/README.md",
     "resources/Screenshot 2023-09-11 at 18.15.07.png",
     "resources/Pasted image 20230908123138.png",
     "1. today i touch/2023-09",
     "resources/Pasted image 20230822171403.png",
-    "resources/Screenshot 2023-08-22 at 17.12.49.png",
     "1. today i touch/2023-08",
     "canvas/topic.size.flow - First canvas.canvas",
     "resources/ML system design case studies.csv",
