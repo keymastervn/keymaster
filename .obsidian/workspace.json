@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a562d63681176928",
+        "id": "dc85ae8252c8906d",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1336be42e1a777",
+            "id": "2c523d66c9d36122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-10/20231015.md",
+                "file": "1. today i touch/2023-10/20231020.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hiddengem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-10/20231015.md",
+                "file": "1. today i touch/2023-10/20231020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,17 @@
   },
   "active": "42430940cf18bb22",
   "lastOpenFiles": [
+    "resources/Pasted image 20231020174915.png",
+    "1. today i touch/2022-07/20220720.md",
+    "1. today i touch/2023-10/20231019.md",
+    "1. today i touch/2023-10/20231020.md",
+    "1. today i touch/2023-10/20231018.md",
+    "resources/Pasted image 20231019002647.png",
     "1. today i touch/2023-10/20231014.md",
+    "1. today i touch/2023-10/20231016.md",
+    "1. today i touch/2023-10/20231003.md",
     "1. today i touch/2023-10/20231015.md",
+    "1. today i touch/README.md",
     "resources/Screenshot 2023-10-14 at 21.58.42.png",
     "Presentations/20231015 - Sidekiq concurrency.md",
     "1. today i touch/2023-10/20231012.md",
@@ -127,7 +136,6 @@
     "1. today i touch/2023-09/20230923.md",
     "1. today i touch/2023-01/20230131.md",
     "1. today i touch/2023-07/20230722.md",
-    "1. today i touch/2023-10/20231003.md",
     "1. today i touch/2023-10/20231006.md",
     "resources/Pasted image 20231011184829.png",
     "1. today i touch/2023-09/20230927.md",
@@ -139,13 +147,6 @@
     "1. today i touch/2023-10/20231007.md",
     "resources/Pasted image 20231010151252.png",
     "1. today i touch/2022-11/20221118.md",
-    "1. today i touch/2023-01/20230102.md",
-    "1. today i touch/2023-02/20230201.md",
-    "1. today i touch/2023-08/20230828.md",
-    "1. today i touch/2023-03/20230328.md",
-    "1. today i touch/2023-06/20230616.md",
-    "1. today i touch/2023-07/20230728.md",
-    "1. today i touch/2023-06/20230605.md",
     "resources/Pasted image 20231001162225.png",
     "1. today i touch/2023-10",
     "resources/Screenshot 2023-09-27 at 19.06.24.png",
@@ -153,7 +154,6 @@
     "resources/Pasted image 20230922094732.png",
     "resources/Pasted image 20230920165124.png",
     "resources/Pasted image 20230918175243.png",
-    "resources/Screenshot 2023-09-14 at 11.56.46.png",
     "1. today i touch/2023-09",
     "1. today i touch/2023-08",
     "canvas/topic.size.flow - First canvas.canvas",
