@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-11/20231117.md",
+                "file": "1. today i touch/2023-11/20231120.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "growth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-11/20231117.md",
+                "file": "1. today i touch/2023-11/20231120.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +115,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "155214efcb9ee06c",
+  "active": "42430940cf18bb22",
   "lastOpenFiles": [
-    "1. today i touch/2023-11/20231115.md",
+    "1. today i touch/2023-03/20230328.md",
+    "career/mentoring/103 - web application, or deeper ruby/Network.md",
+    "1. today i touch/2023-11/20231120.md",
+    "1. today i touch/2022-06/20220622.md",
+    "1. today i touch/2023-11/20231118.md",
     "1. today i touch/2023-11/20231117.md",
-    "1. today i touch/2023-11/20231114.md",
+    "1. today i touch/2023-11/20231111.md",
+    "1. today i touch/2023-11/20231112.md",
     "1. today i touch/2023-11/20231113.md",
+    "1. today i touch/2023-11/20231114.md",
+    "1. today i touch/2023-11/20231115.md",
     "resources/projects.fivethirtyeight.com_personality-quiz.jpeg",
     "resources/projects.fivethirtyeight.com_personality-quiz.png",
-    "1. today i touch/2023-11/20231112.md",
     "1. today i touch/README.md",
-    "1. today i touch/2023-11/20231111.md",
     "1. today i touch/2022-08/20220829.md",
     "1. today i touch/2022-08/20220816.md",
     "1. today i touch/2023-11/20231101.md",
@@ -143,11 +149,6 @@
     "1. today i touch/2022-12/20221219.md",
     "1. today i touch/2023-10/20231026.md",
     "1. today i touch/2023-07/20230704.md",
-    "1. today i touch/2023-07/20230702.md",
-    "1. today i touch/2023-06/20230606.md",
-    "1. today i touch/2023-10/20231025.md",
-    "1. today i touch/2023-10/20231024.md",
-    "1. today i touch/2023-10/20231022.md",
     "resources/Pasted image 20231020174915.png",
     "resources/Pasted image 20231019002647.png",
     "resources/Screenshot 2023-10-14 at 21.58.42.png",
