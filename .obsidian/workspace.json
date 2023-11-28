@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f218459f3b5e7bad",
+        "id": "8c46c910aec7759d",
         "type": "tabs",
         "children": [
           {
-            "id": "60f9843e9586191c",
+            "id": "4ec269adcd5c3829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-11/20231122.md",
+                "file": "1. today i touch/2023-11/20231127.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-11/20231122.md",
+                "file": "1. today i touch/2023-11/20231127.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,12 +114,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "60f9843e9586191c",
+  "active": "4ec269adcd5c3829",
   "lastOpenFiles": [
+    "1. today i touch/2023-11/20231125.md",
+    "1. today i touch/2023-11/20231127.md",
     "1. today i touch/2023-11/20231124.md",
+    "1. today i touch/2023-11/20231122.md",
     "resources/Screenshot 2023-11-24 at 18.18.50.png",
     "resources/Screenshot 2023-11-24 at 18.17.33.png",
-    "1. today i touch/2023-11/20231122.md",
     "1. today i touch/2023-11/20231120.md",
     "1. today i touch/2023-11/20231117.md",
     "1. today i touch/2023-11/20231118.md",
@@ -142,7 +144,6 @@
     "1. today i touch/2023-01/20230105.md",
     "1. today i touch/2023-01/20230111.md",
     "1. today i touch/2023-01/20230116.md",
-    "1. today i touch/2023-01/20230131.md",
     "resources/projects.fivethirtyeight.com_personality-quiz.jpeg",
     "resources/projects.fivethirtyeight.com_personality-quiz.png",
     "resources/Screenshot 2023-11-11 at 21.56.25.png",
