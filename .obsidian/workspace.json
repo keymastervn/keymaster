@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1541f5222d9eb1fd",
+        "id": "98e118a49e428018",
         "type": "tabs",
         "children": [
           {
-            "id": "319a74f07702ee29",
+            "id": "2ac412b6ad71d119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2023-12/20231228.md",
+                "file": "todo/2024/February/20240219.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 437.5024719238281
   },
   "right": {
     "id": "fe21769b070173ee",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2023-12/20231228.md",
+                "file": "todo/2024/February/20240219.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,57 +111,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false
     }
   },
-  "active": "319a74f07702ee29",
+  "active": "2ac412b6ad71d119",
   "lastOpenFiles": [
-    "1. today i touch/2023-12/20231225.md",
+    "todo/2024/February/20240219.md",
+    "todo/2024/February",
+    "todo/2024",
+    "todo/template.md",
+    "2024-02-19.md",
+    "todo",
+    "1. today i touch/2024-01/20240211.md",
+    "1. today i touch/2023-12/20231229.md",
+    "1. today i touch/2024-01/20240103.md",
+    "1. today i touch/2024-01/20240105.md",
+    "1. today i touch/2024-01/20240109.md",
+    "1. today i touch/2024-01/20240114.md",
+    "1. today i touch/2024-01/20240117.md",
+    "1. today i touch/2024-01/20240118.md",
+    "1. today i touch/2024-01/20240126.md",
+    "1. today i touch/2024-01/20240127.md",
+    "1. today i touch/2024-01/20240205.md",
+    "1. today i touch/2024-01/20.md",
     "1. today i touch/2023-12/20231228.md",
-    "1. today i touch/2023-12/20231219.md",
-    "1. today i touch/2023-12/20231217.md",
-    "1. today i touch/2023-12/20231216.md",
-    "1. today i touch/2023-12/20231221.md",
-    "1. today i touch/2023-12/20231210.md",
-    "1. today i touch/2023-10/20231011.md",
-    "1. today i touch/2023-10/20231014.md",
-    "1. today i touch/2023-10/20231018.md",
-    "1. today i touch/2023-11/20231122.md",
-    "1. today i touch/2023-12/20231204.md",
-    "1. today i touch/2023-12/20231214.md",
-    "resources/Pasted image 20231219140344.png",
-    "1. today i touch/2023-11/20231125.md",
     "1. today i touch/2023-11/20231128.md",
-    "1. today i touch/2023-06/20230604.md",
-    "1. today i touch/2023-12/20231211.md",
-    "resources/Pasted image 20231211201940.png",
-    "1. today i touch/2023-09/20230923.md",
+    "1. today i touch/2023-11/20231127.md",
+    "1. today i touch/2023-11/20231124.md",
+    "1. today i touch/2023-12/20231201.md",
     "1. today i touch/2023-12/20231205.md",
     "1. today i touch/2023-12/20231206.md",
     "1. today i touch/2023-12/20231207.md",
-    "1. today i touch/2023-09/20230924.md",
+    "1. today i touch/2023-12/20231210.md",
+    "1. today i touch/2023-12/20231211.md",
+    "1. today i touch/2023-12/20231214.md",
+    "career/senior competencies/3.leadership",
+    "career/senior competencies/1.communication/building communication hubs",
+    "canvas/topic.size.flow - First canvas.canvas",
+    "1. today i touch/2024-01",
+    "resources/Screenshot 2023-12-29 at 10.25.12.png",
+    "resources/Screenshot 2023-12-29 at 10.00.04.png",
+    "resources/Pasted image 20231219140344.png",
+    "resources/Pasted image 20231211201940.png",
     "resources/Pasted image 20231206142057.png",
     "resources/Pasted image 20231204231745.png",
     "resources/Pasted image 20231204222745.png",
-    "1. today i touch/2023-12/20231203.md",
-    "1. today i touch/2023-12/20231201.md",
     "resources/Pasted image 20231203105154.png",
     "1. today i touch/2023-12",
-    "1. today i touch/2023-11/20231127.md",
-    "1. today i touch/2023-11/20231124.md",
     "resources/Screenshot 2023-11-24 at 18.18.50.png",
     "resources/Screenshot 2023-11-24 at 18.17.33.png",
-    "resources/projects.fivethirtyeight.com_personality-quiz.jpeg",
-    "resources/projects.fivethirtyeight.com_personality-quiz.png",
     "1. today i touch/2023-11",
     "1. today i touch/2023-10",
-    "1. today i touch/2023-09",
-    "1. today i touch/2023-08",
-    "canvas/topic.size.flow - First canvas.canvas",
-    "resources/ML system design case studies.csv",
-    "1. today i touch/2023-07",
-    "1. today i touch/2023-06",
-    "resources/Pasted image 20230412093945.png.sb-2f001a55-EuqeOx",
-    "resources/Screenshot 2023-04-14 at 12.14.59.png~"
+    "1. today i touch/2023-09"
   ]
 }

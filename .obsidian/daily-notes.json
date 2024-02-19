@@ -1,0 +1,6 @@
+{
+  "template": "todo/template.md",
+  "folder": "todo",
+  "autorun": true,
+  "format": "YYYY/MMMM/YYYYMMDD"
+}
