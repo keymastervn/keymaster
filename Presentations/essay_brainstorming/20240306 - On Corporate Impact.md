@@ -1,0 +1,14 @@
+
+- Role importancy
+	- Daily Task (horizontally)- Doer
+	- Task that support daily task goes vertically
+	- Task management (communication, horizontally) - Manager
+	- Task management that leads and supports
+	- Task that support leads and supports (vertically)
+	- Consultancy - Strategic - Leadership
+- Task name > No name
+- Task has urgency > Task without urgency
+- Task that supports upper management > Task that cares and supports under management (due to the promotion decision maker)
+- [EVIL PATTERN] Task that is recognizable, is better than than none. But it is very objective.
+- [EVIL PATTERN] Accountability > Problem Solving, sadly, people tend to be managers more than doer. Instead of being towards fixing things / supports, they want to be an umbrella.
+- [GOOD PATTERN] Pre-promotion pressure. If someone is full of commitment, he/she should be pre-promotion as acting/interim eg. Senior for challenging. 
