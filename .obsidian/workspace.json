@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "386246c1976dff77",
+        "id": "ce8446bde132cdcc",
         "type": "tabs",
         "children": [
           {
-            "id": "c59e5c4f0cf3f581",
+            "id": "c5811b6c2c075105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2024-06/20240607.md",
+                "file": "1. today i touch/2024-06/20240615.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2024-06/20240607.md",
+                "file": "1. today i touch/2024-06/20240615.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +115,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "c59e5c4f0cf3f581",
+  "active": "c5811b6c2c075105",
   "lastOpenFiles": [
+    "1. today i touch/2024-06/20240614.md",
+    "1. today i touch/2024-06/20240611.md",
+    "1. today i touch/2024-06/20240615.md",
+    "1. today i touch/2024-06/20240613.md",
+    "1. today i touch/2024-06/20240602.md",
+    "resources/Screenshot 2024-06-11 at 19.58.47.png",
     "1. today i touch/2024-06/20240610.md",
     "1. today i touch/2024-06/20240607.md",
-    "1. today i touch/2024-06/Untitled.md",
     "1. today i touch/2024-06/20240606.md",
     "1. today i touch/2024-06/20240605.md",
     "1. today i touch/2024-06/20240604.md",
@@ -138,12 +143,8 @@
     "1. today i touch/2024-05/20240527.md",
     "1. today i touch/2024-05/20240530.md",
     "1. today i touch/2024-06/20240601.md",
-    "1. today i touch/2024-06/20240602.md",
     "1. today i touch/2023-11/20231128.md",
     "1. today i touch/2023-12/20231206.md",
-    "1. today i touch/2024-01/20240109.md",
-    "1. today i touch/2024-05/20240510.md",
-    "1. today i touch/2024-05/20240513.md",
     "resources/Screenshot 2024-06-02 at 10.36.22.png",
     "1. today i touch/2024-06",
     "resources/Screenshot 2024-05-30 at 17.43.33.png",
@@ -153,7 +154,6 @@
     "resources/Screenshot 2024-05-18 at 20.52.38.png",
     "resources/Screenshot 2024-05-18 at 20.29.43.png",
     "resources/Screenshot 2024-05-16 at 12.05.16.png",
-    "resources/Pasted image 20240515121808.png",
     "1. today i touch/2024-05",
     "1. today i touch/2024-04/Untitled",
     "canvas/topic.size.flow - First canvas.canvas",
