@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5420c2b06744be5c",
+        "id": "e79373561e8177b0",
         "type": "tabs",
         "children": [
           {
-            "id": "e802e2c80ce6bf71",
+            "id": "b6473ba30ced9a7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2024-09/2024-09-20.md",
+                "file": "1. today i touch/2024-09/2024-09-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2024-09/2024-09-20.md",
+                "file": "1. today i touch/2024-09/2024-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +115,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "e802e2c80ce6bf71",
+  "active": "b6473ba30ced9a7d",
   "lastOpenFiles": [
+    "Presentations/20240929 - Game theory.md",
+    "1. today i touch/2024-09/2024-09-29.md",
+    "todo/2024/September/20240929.md",
+    "1. today i touch/2024-09/2024-09-23.md",
+    "Presentations/20231015 - Sidekiq concurrency.md",
+    "Presentations/20230415 - 15 cloud-native factors (beyong 12 factors app).md",
+    "software engineering/README.md",
+    "resources/Screenshot 2024-09-29 at 22.50.34.png",
+    "todo/2024/September/20240927.md",
+    "todo/2024/September/20240926.md",
+    "resources/Screenshot 2024-09-23 at 23.29.08.png",
+    "todo/2024/September/20240923.md",
+    "1. today i touch/2024-09/2024-09-20.md",
     "1. today i touch/2024-07/20240728.md",
     "1. today i touch/2024-07/20240709.md",
     "1. today i touch/2024-09/2024-09-13.md",
-    "1. today i touch/2024-09/2024-09-20.md",
     "1. today i touch/2024-07/20240718.md",
     "1. today i touch/2024-07/20240717.md",
     "todo/2024/September/20240921.md",
@@ -135,26 +147,14 @@
     "1. today i touch/2023-09/20230909.md",
     "1. today i touch/2023-09/20230916.md",
     "1. today i touch/2023-04/20230402.md",
-    "1. today i touch/2022-11/20221114.md",
-    "1. today i touch/2023-01/20230105.md",
-    "1. today i touch/2022-08/20220805.md",
-    "1. today i touch/2022-05/20220511.md",
-    "1. today i touch/2024-08/20240819.md",
-    "1. today i touch/2024-07/20240711.md",
     "resources/Screenshot 2024-09-11 at 11.04.33.png",
-    "todo/2024/September/20240903.md",
-    "1. today i touch/2024-09/2024-09-03.md",
     "resources/Pasted image 20240903153151.png",
     "1. today i touch/2024-09",
-    "1. today i touch/2024-08/20240829.md",
     "todo/2024/September",
-    "1. today i touch/2023-08/20230822.md",
     "resources/Pasted image 20240616164207.png",
     "resources/Pasted image 20240627173111.png",
     "resources/Pasted image 20240627173138.png",
     "resources/Pasted image 20240709171207.png",
-    "resources/Pasted image 20240710103048.png",
-    "resources/Pasted image 20240710170907.png",
     "todo/2024/August",
     "1. today i touch/2024-08",
     "1. today i touch/2024-07/Untitled",
