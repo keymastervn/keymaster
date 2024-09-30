@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e79373561e8177b0",
+        "id": "592fb9a08cf2995e",
         "type": "tabs",
         "children": [
           {
-            "id": "b6473ba30ced9a7d",
+            "id": "a5e960a691dfc1e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2024-09/2024-09-29.md",
+                "file": "1. today i touch/2024-09/2024-09-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2024-09/2024-09-29.md",
+                "file": "1. today i touch/2024-09/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +116,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "b6473ba30ced9a7d",
+  "active": "42430940cf18bb22",
   "lastOpenFiles": [
-    "Presentations/20240929 - Game theory.md",
+    "todo/2024/September/20240930.md",
+    "1. today i touch/2024-09/2024-09-30.md",
     "1. today i touch/2024-09/2024-09-29.md",
+    "Presentations/20240929 - Game theory.md",
     "todo/2024/September/20240929.md",
     "1. today i touch/2024-09/2024-09-23.md",
     "Presentations/20231015 - Sidekiq concurrency.md",
@@ -145,8 +148,6 @@
     "resources/Screenshot 2024-09-11 at 17.54.28.png",
     "1. today i touch/2024-09/2024-09-09.md",
     "1. today i touch/2023-09/20230909.md",
-    "1. today i touch/2023-09/20230916.md",
-    "1. today i touch/2023-04/20230402.md",
     "resources/Screenshot 2024-09-11 at 11.04.33.png",
     "resources/Pasted image 20240903153151.png",
     "1. today i touch/2024-09",
