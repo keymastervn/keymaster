@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2024-09/2024-09-30.md",
+                "file": "1. today i touch/2024-10/20241008.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2024-09/2024-09-30.md",
+                "file": "1. today i touch/2024-10/20241008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +115,23 @@
       "templates:Insert template": false
     }
   },
-  "active": "42430940cf18bb22",
+  "active": "a5e960a691dfc1e9",
   "lastOpenFiles": [
-    "todo/2024/September/20240930.md",
+    "1. today i touch/2024-10/20241007.md",
+    "1. today i touch/2024-10/20241008.md",
     "1. today i touch/2024-09/2024-09-30.md",
+    "1. today i touch/2024-10/20241001.md",
+    "1. today i touch/2024-10/20241003.md",
+    "1. today i touch/2024-10/20241005.md",
+    "1. today i touch/2024-10/20241006.md",
+    "resources/Screenshot 2024-10-06 at 16.16.28.png",
+    "1. today i touch/2023-10/20231014.md",
+    "todo/2024/October/20241006.md",
+    "1. today i touch/2024-10",
+    "1. today i touch/2024-09/Untitled",
+    "todo/2024/October/20241001.md",
+    "todo/2024/October",
+    "todo/2024/September/20240930.md",
     "1. today i touch/2024-09/2024-09-29.md",
     "Presentations/20240929 - Game theory.md",
     "todo/2024/September/20240929.md",
@@ -137,17 +149,8 @@
     "1. today i touch/2024-07/20240709.md",
     "1. today i touch/2024-09/2024-09-13.md",
     "1. today i touch/2024-07/20240718.md",
-    "1. today i touch/2024-07/20240717.md",
-    "todo/2024/September/20240921.md",
-    "1. today i touch/2022-08/20220816.md",
-    "1. today i touch/2023-07/20230713.md",
-    "1. today i touch/2024-09/2024-09-11.md",
-    "1. today i touch/2024-09/2024-09-12.md",
-    "todo/2024/September/20240913.md",
     "resources/Pasted image 20240912230752.png",
     "resources/Screenshot 2024-09-11 at 17.54.28.png",
-    "1. today i touch/2024-09/2024-09-09.md",
-    "1. today i touch/2023-09/20230909.md",
     "resources/Screenshot 2024-09-11 at 11.04.33.png",
     "resources/Pasted image 20240903153151.png",
     "1. today i touch/2024-09",
@@ -155,15 +158,11 @@
     "resources/Pasted image 20240616164207.png",
     "resources/Pasted image 20240627173111.png",
     "resources/Pasted image 20240627173138.png",
-    "resources/Pasted image 20240709171207.png",
     "todo/2024/August",
     "1. today i touch/2024-08",
     "1. today i touch/2024-07/Untitled",
     "todo/2024/July",
     "1. today i touch/2024-07",
-    "todo/2024/June",
-    "1. today i touch/2024-06",
-    "1. today i touch/2024-05",
     "canvas/topic.size.flow - First canvas.canvas",
     "canvas/Untitled.canvas"
   ]
