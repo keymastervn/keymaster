@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "592fb9a08cf2995e",
+        "id": "8766040d3439da86",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e960a691dfc1e9",
+            "id": "44eeba88eaf2f61a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2024-10/20241008.md",
+                "file": "1. today i touch/2024-10/20241012.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. today i touch/2024-10/20241008.md",
+                "file": "1. today i touch/2024-10/20241012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "a5e960a691dfc1e9",
+  "active": "44eeba88eaf2f61a",
   "lastOpenFiles": [
-    "1. today i touch/2024-10/20241007.md",
-    "1. today i touch/2024-10/20241008.md",
-    "1. today i touch/2024-09/2024-09-30.md",
     "1. today i touch/2024-10/20241001.md",
     "1. today i touch/2024-10/20241003.md",
     "1. today i touch/2024-10/20241005.md",
     "1. today i touch/2024-10/20241006.md",
+    "1. today i touch/2024-10/20241007.md",
+    "1. today i touch/2024-10/20241008.md",
+    "1. today i touch/2024-10/20241011.md",
+    "1. today i touch/2024-10/20241012.md",
+    "1. today i touch/2023-12/20231206.md",
+    "todo/2024/October/20241011.md",
+    "1. today i touch/2024-09/2024-09-30.md",
     "resources/Screenshot 2024-10-06 at 16.16.28.png",
     "1. today i touch/2023-10/20231014.md",
     "todo/2024/October/20241006.md",
@@ -145,10 +149,6 @@
     "resources/Screenshot 2024-09-23 at 23.29.08.png",
     "todo/2024/September/20240923.md",
     "1. today i touch/2024-09/2024-09-20.md",
-    "1. today i touch/2024-07/20240728.md",
-    "1. today i touch/2024-07/20240709.md",
-    "1. today i touch/2024-09/2024-09-13.md",
-    "1. today i touch/2024-07/20240718.md",
     "resources/Pasted image 20240912230752.png",
     "resources/Screenshot 2024-09-11 at 17.54.28.png",
     "resources/Screenshot 2024-09-11 at 11.04.33.png",
