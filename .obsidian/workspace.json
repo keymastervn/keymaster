@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "97928edfeb390909",
+        "id": "02aa257a564a2be2",
         "type": "tabs",
         "children": [
           {
-            "id": "721d13884596a9d3",
+            "id": "beee5014245d5b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2025-01/20250130.md",
+                "file": "1. today i touch/2025-02/20250207.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250130"
+              "title": "20250207"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -125,54 +126,54 @@
       "templates:Insert template": false
     }
   },
-  "active": "721d13884596a9d3",
+  "active": "beee5014245d5b17",
   "lastOpenFiles": [
-    "1. today i touch/2025-01/20250129.md",
-    "1. today i touch/2025-01/20250130.md",
-    "1. today i touch/2025-01/20250128.md",
-    "1. today i touch/2025-01/20250122.md",
-    "1. today i touch/2025-01/20250127.md",
-    "1. today i touch/2025-01/20250125.md",
-    "1. today i touch/2023-10/20231029.md",
-    "1. today i touch/2024-04/20240411.md",
-    "career/senior competencies/5.DevOps and SRE/0. notes.md",
-    "1. today i touch/2024-12/20241209.md",
-    "1. today i touch/2022-09/20220928.md",
-    "1. today i touch/2024-10/20241014.md",
+    "1. today i touch/2025-02/20250214.md",
+    "1. today i touch/2025-02/20250216.md",
+    "resources/Pasted image 20250214160746.png",
+    "1. today i touch/2025-02/20250212.md",
+    "1. today i touch/2025-02/20250205.md",
+    "1. today i touch/2025-02/20250211.md",
+    "1. today i touch/2023-06/20230608.md",
+    "1. today i touch/2022-08/20220803.md",
+    "1. today i touch/2023-06/20230629.md",
+    "1. today i touch/2023-10/20231019.md",
+    "todo/2025/February/20250214.md",
+    "1. today i touch/2025-02/20250206.md",
+    "1. today i touch/2025-02/20250207.md",
+    "1. today i touch/2025-02/20250210.md",
+    "resources/Pasted image 20250211115126.png",
+    "resources/Screenshot 2025-02-11 at 17.28.09.png",
+    "todo/2025/February/20250211.md",
+    "1. today i touch/2025-02/20250204.md",
+    "resources/Screenshot 2025-02-10 at 16.10.24.png",
+    "resources/Screenshot 2025-02-10 at 16.06.03.png",
+    "1. today i touch/2025-02/20250208.md",
+    "resources/Screenshot 2025-02-10 at 15.45.01.png",
+    "1. today i touch/2024-04/20240429.md",
+    "1. today i touch/2023-07/20230729.md",
+    "1. today i touch/2024-12/20241223.md",
+    "resources/Pasted image 20250205191930.png",
+    "1. today i touch/2024-08/20240829.md",
+    "1. today i touch/2023-10/20231024.md",
+    "1. today i touch/2024-11/20241103.md",
+    "1. today i touch/2024-05/20240510.md",
     "1. today i touch/2023-10/20231021.md",
-    "1. today i touch/2023-01/20230131.md",
-    "1. today i touch/2023-05/20230527.md",
-    "1. today i touch/2025-01/20250121.md",
-    "1. today i touch/2025-01/20250119.md",
-    "1. today i touch/2025-01/20250116.md",
-    "1. today i touch/2025-01/20250110.md",
-    "1. today i touch/2025-01/20250109.md",
-    "1. today i touch/2025-01/20250106.md",
-    "1. today i touch/2025-01/20250104.md",
-    "1. today i touch/2025-01/20250103.md",
-    "1. today i touch/2025-01/20250102.md",
-    "resources/Pasted image 20250127121617.png",
-    "1. today i touch/2024-11/20241114.md",
-    "1. today i touch/2024-12/20241205.md",
+    "1. today i touch/2025-01/20250127.md",
+    "1. today i touch/2023-10/20231022.md",
+    "resources/Pasted image 20250204191117.png",
+    "resources/Pasted image 20241204121127.png",
+    "resources/Pasted image 20241122161938.png",
+    "1. today i touch/2025-02",
+    "todo/2025/February",
     "todo/2025/January",
     "todo/2025",
-    "resources/Pasted image 20220519000249.png",
-    "resources/Pasted image 20220518235358.png",
-    "resources/Pasted image 20220505133612.png",
-    "resources/Pasted image 20220505113123.png",
-    "resources/Pasted image 20220504153708.png",
-    "resources/Pasted image 20220501001100.png",
-    "resources/IMG_1849.jpg",
-    "resources/Screenshot 2025-01-04 at 20.43.13.png",
     "1. today i touch/2025-01",
-    "resources/Screenshot 2024-12-30 at 02.14.44.png",
     "todo/2024/December",
     "1. today i touch/2024-12",
     "todo/2024/November",
     "1. today i touch/2024-11",
     "1. today i touch/2024-10",
-    "1. today i touch/2024-09/Untitled",
-    "todo/2024/October",
     "canvas/topic.size.flow - First canvas.canvas",
     "canvas/Untitled.canvas"
   ]
