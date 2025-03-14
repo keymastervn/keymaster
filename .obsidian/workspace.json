@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c4f1f6387aab099",
+        "id": "44d8938a4059a0e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3263ce17a691c4",
+            "id": "9e81313789c5c84b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2025-03/20250309.md",
+                "file": "1. today i touch/2025-03/20250314.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250309"
+              "title": "20250314"
             }
           }
         ]
@@ -126,10 +126,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "3d3263ce17a691c4",
+  "active": "9e81313789c5c84b",
   "lastOpenFiles": [
-    "resources/Pasted image 20250309113938.png",
+    "todo/2025/March/20250314.md",
+    "1. today i touch/2025-03/20250314.md",
+    "todo/Learning python.md",
+    "1. today i touch/2025-03/20250313.md",
+    "1. today i touch/2025-03/20250312.md",
+    "todo/readme.md",
+    "1. today i touch/2025-03/20250311.md",
     "1. today i touch/2025-03/20250309.md",
+    "resources/Screenshot 2025-03-11 at 14.01.44.png",
+    "resources/Pasted image 20250311135513.png",
+    "resources/Pasted image 20250311105222.png",
+    "resources/Pasted image 20250309113938.png",
     "todo/2025/March/20250310.md",
     "1. today i touch/2025-02/20250223.md",
     "1. today i touch/2025-02/20250224.md",
@@ -142,18 +152,12 @@
     "1. today i touch/2025-03/20250307.md",
     "1. today i touch/2025-01/20250125.md",
     "1. today i touch/2023-09/20230911.md",
-    "todo/Learning python.md",
     "todo/RECURRING.md",
-    "todo/readme.md",
     "todo/TODAY.md",
     "todo/2025/March/20250306.md",
     "1. today i touch/2024-10/20241005.md",
     "1. today i touch/2025-02/20250218.md",
     "1. today i touch/2025-02/20250217.md",
-    "1. today i touch/2025-02/20250216.md",
-    "1. today i touch/2025-02/20250214.md",
-    "1. today i touch/2025-02/20250212.md",
-    "1. today i touch/2025-02/20250211.md",
     "1. today i touch/2025-03",
     "todo/2025/March",
     "resources/Screenshot 2025-02-27 at 00.58.29.png",
@@ -162,9 +166,6 @@
     "resources/Screenshot 2025-02-24 at 12.01.48.png",
     "resources/Pasted image 20250219122118.png",
     "resources/Pasted image 20250219121922.png",
-    "resources/Pasted image 20250214160746.png",
-    "resources/Pasted image 20250211115126.png",
-    "resources/Screenshot 2025-02-11 at 17.28.09.png",
     "1. today i touch/2025-02",
     "todo/2025/February",
     "todo/2025/January",
