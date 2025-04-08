@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2025-03/20250331.md",
+                "file": "1. today i touch/2025-04/20250408.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250331"
+              "title": "20250408"
             }
           }
         ]
@@ -126,11 +126,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "4a6056577ee4ce8e",
+  "active": "a9f79d3311f2f542",
   "lastOpenFiles": [
+    "1. today i touch/2025-04/20250407.md",
+    "1. today i touch/2025-04/20250408.md",
+    "1. today i touch/2025-01/20250129.md",
+    "1. today i touch/2024-12/20241224.md",
+    "1. today i touch/2025-04/20250403.md",
+    "1. today i touch/2025-04/20250405.md",
+    "1. today i touch/2025-04/20250402.md",
+    "1. today i touch/2025-04/20250401.md",
+    "1. today i touch/2025-03/20250331.md",
     "1. today i touch/2025-04",
     "1. today i touch/2025-03/20250330.md",
-    "1. today i touch/2025-03/20250331.md",
     "1. today i touch/2025-03/20250322.md",
     "1. today i touch/2025-03/20250321.md",
     "1. today i touch/2025-03/20250320.md",
@@ -149,17 +157,10 @@
     "1. today i touch/2025-03/20250318.md",
     "1. today i touch/2024-12/20241216.md",
     "1. today i touch/2025-03/20250309.md",
-    "1. today i touch/2025-03/20250311.md",
-    "1. today i touch/2025-03/20250312.md",
-    "1. today i touch/2025-03/20250313.md",
-    "1. today i touch/2025-03/20250314.md",
-    "1. today i touch/2025-03/20250315.md",
     "resources/Screenshot 2025-03-20 at 09.10.48.png",
-    "1. today i touch/2023-05/20230523.md",
     "resources/Pasted image 20250318104614.png",
     "resources/Pasted image 20250318104439.png",
     "resources/Screenshot 2025-03-17 at 17.50.50.png",
-    "1. today i touch/2024-01/20240117.md",
     "resources/Screenshot 2025-03-16 at 22.02.40.png",
     "resources/Screenshot 2025-03-11 at 14.01.44.png",
     "resources/Pasted image 20250311135513.png",
@@ -173,7 +174,6 @@
     "1. today i touch/2025-01",
     "todo/2024/December",
     "1. today i touch/2024-12",
-    "todo/2024/November",
     "canvas/topic.size.flow - First canvas.canvas",
     "canvas/Untitled.canvas"
   ]
