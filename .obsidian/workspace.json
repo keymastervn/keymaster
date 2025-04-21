@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9af18101146ac0cc",
+        "id": "b8b2aceb263755dd",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f79d3311f2f542",
+            "id": "7faefc285a3a040a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2025-04/20250412.md",
+                "file": "1. today i touch/2025-04/20250419.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250412"
+              "title": "20250419"
             }
           }
         ]
@@ -126,11 +126,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "a9f79d3311f2f542",
+  "active": "7faefc285a3a040a",
   "lastOpenFiles": [
-    "1. today i touch/2025-04/20250410.md",
+    "1. today i touch/2025-04/20250420.md",
+    "1. today i touch/2025-04/20250421.md",
+    "1. today i touch/2025-04/20250419.md",
+    "1. today i touch/2025-04/20250415.md",
+    "1. today i touch/2025-04/20250414.md",
+    "1. today i touch/2025-04/20250413.md",
     "1. today i touch/2025-04/20250411.md",
     "1. today i touch/2025-04/20250412.md",
+    "1. today i touch/2025-04/20250410.md",
     "resources/Screenshot 2025-04-12 at 10.46.57.png",
     "todo/2025/April/20250412.md",
     "resources/Screenshot 2025-04-12 at 09.59.13.png",
@@ -153,13 +159,8 @@
     "1. today i touch/2025-03/20250319.md",
     "1. today i touch/2025-03/20250324.md",
     "1. today i touch/2025-03/20250325.md",
-    "1. today i touch/2025-03/20250327.md",
-    "1. today i touch/2025-03/20250328.md",
-    "todo/2025/March/20250331.md",
-    "todo/Learning python.md",
     "resources/Pasted image 20250330131806.png",
     "resources/Screenshot 2025-03-25 at 10.16.00.png",
-    "todo/2025/March/20250324.md",
     "resources/Screenshot 2025-03-20 at 09.10.48.png",
     "resources/Pasted image 20250318104614.png",
     "resources/Pasted image 20250318104439.png",
