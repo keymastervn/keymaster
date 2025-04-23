@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8b2aceb263755dd",
+        "id": "d0be393a14dbf82d",
         "type": "tabs",
         "children": [
           {
-            "id": "7faefc285a3a040a",
+            "id": "a17ed9e03072c8dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2025-04/20250419.md",
+                "file": "1. today i touch/2025-04/20250423.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250419"
+              "title": "20250423"
             }
           }
         ]
@@ -126,14 +126,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "7faefc285a3a040a",
+  "active": "a17ed9e03072c8dd",
   "lastOpenFiles": [
-    "1. today i touch/2025-04/20250420.md",
+    "1. today i touch/2025-04/20250422.md",
     "1. today i touch/2025-04/20250421.md",
+    "1. today i touch/2025-04/20250423.md",
+    "1. today i touch/2024-11/20241122.md",
+    "1. today i touch/2023-09/20230908.md",
+    "1. today i touch/2024-09/2024-09-20.md",
+    "1. today i touch/2025-04/20250413.md",
+    "1. today i touch/2025-04/20250414.md",
+    "1. today i touch/2025-04/20250420.md",
     "1. today i touch/2025-04/20250419.md",
     "1. today i touch/2025-04/20250415.md",
-    "1. today i touch/2025-04/20250414.md",
-    "1. today i touch/2025-04/20250413.md",
     "1. today i touch/2025-04/20250411.md",
     "1. today i touch/2025-04/20250412.md",
     "1. today i touch/2025-04/20250410.md",
@@ -154,11 +159,6 @@
     "1. today i touch/2025-04",
     "1. today i touch/2025-03/20250330.md",
     "1. today i touch/2025-03/20250322.md",
-    "1. today i touch/2025-03/20250321.md",
-    "1. today i touch/2025-03/20250320.md",
-    "1. today i touch/2025-03/20250319.md",
-    "1. today i touch/2025-03/20250324.md",
-    "1. today i touch/2025-03/20250325.md",
     "resources/Pasted image 20250330131806.png",
     "resources/Screenshot 2025-03-25 at 10.16.00.png",
     "resources/Screenshot 2025-03-20 at 09.10.48.png",
