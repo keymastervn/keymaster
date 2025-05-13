@@ -1,0 +1,3 @@
+[submodule "acm-obsidian-shared-workspace"]
+	path = acm-obsidian-shared-workspace
+	url = git@github.com:EH-POC/acm-obsidian-shared-workspace.git
