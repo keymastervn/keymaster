@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47d265f22360e227",
+        "id": "9be8b7c22a2f09cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0b3a94a977f02d",
+            "id": "27a8f717f697d225",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -122,8 +122,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "7a0b3a94a977f02d",
+  "active": "27a8f717f697d225",
   "lastOpenFiles": [
+    "acm-obsidian-shared-workspace/diagrams/Untitled.md",
+    "acm-obsidian-shared-workspace/notes",
+    "acm-obsidian-shared-workspace/prompts",
+    "acm-obsidian-shared-workspace/diagrams",
     "acm-obsidian-shared-workspace/README.md",
     "todo/2025/May/20250513.md",
     "acm-obsidian-shared-workspace",
@@ -166,9 +170,6 @@
     "resources/Pasted image 20250504110210.png",
     "1. today i touch/2025-05",
     "todo/2025/April",
-    "1. today i touch/2025-04",
-    "1. today i touch/2025-03",
-    "todo/2025/March",
     "canvas/topic.size.flow - First canvas.canvas",
     "canvas/Untitled.canvas"
   ]
