@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "842ee3f7028da426",
+        "id": "47d265f22360e227",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b851ca558d685f",
+            "id": "7a0b3a94a977f02d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo/2025/May/20250513.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20250513"
+              "title": "New tab"
             }
           }
         ]
@@ -126,12 +122,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "e8b851ca558d685f",
+  "active": "7a0b3a94a977f02d",
   "lastOpenFiles": [
     "acm-obsidian-shared-workspace/README.md",
+    "todo/2025/May/20250513.md",
     "acm-obsidian-shared-workspace",
     "--force",
-    "todo/2025/May/20250513.md",
     "team_alchemist",
     "team_alchemist/acm-obsidian-shared-workspace",
     "1. today i touch/2025-05/20250513.md",
