@@ -14,19 +14,21 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Drawing 2025-05-16 14.30.51.excalidraw"
+              "title": "Mind Map of Files"
             }
           },
           {
-            "id": "c49851ed398bf23d",
+            "id": "7acb4c46ff6ca899",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "acm-obsidian-shared-workspace/diagrams/20250516_agent.excalidraw.md"
+                "file": "1. today i touch/2025-05/20250520.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "20250516_agent.excalidraw"
+              "icon": "lucide-file",
+              "title": "20250520"
             }
           }
         ],
@@ -136,16 +138,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a6056577ee4ce8e",
+  "active": "7acb4c46ff6ca899",
   "lastOpenFiles": [
-    "1. today i touch/2025-05/20250515.md",
+    "resources/Screenshot 2025-05-20 at 21.09.40.png",
+    "resources/Screenshot 2025-05-20 at 21.02.47.png",
+    "todo/2025/May/20250519.md",
+    "1. today i touch/2025-05/20250520.md",
+    "todo/2025/May/20250518.md",
+    "acm-obsidian-shared-workspace/files/Pasted Image 20250514101832_884.png",
+    "acm-obsidian-shared-workspace/diagrams/Drawing 2025-05-14 10.18.12.excalidraw.md",
     "acm-obsidian-shared-workspace/diagrams/20250516_agent.excalidraw.md",
+    "1. today i touch/2025-05/20250515.md",
     "1. today i touch/2025-05/20250516.md",
+    "1. today i touch/2025-04/20250429.md",
     "resources/Screenshot 2025-05-16 at 09.34.17.png",
     "resources/Screenshot 2025-05-16 at 09.33.20.png",
     "acm-obsidian-shared-workspace/README.md",
-    "acm-obsidian-shared-workspace/files/Pasted Image 20250514101832_884.png",
-    "acm-obsidian-shared-workspace/diagrams/Drawing 2025-05-14 10.18.12.excalidraw.md",
     "acm-obsidian-shared-workspace/mindmaps/Agent 101.md",
     "acm-obsidian-shared-workspace/mindmaps",
     "acm-obsidian-shared-workspace/files",
@@ -176,14 +184,8 @@
     "resources/Pasted image 20250507100231.png",
     "todo/2025/May/20250508.md",
     "1. today i touch/2025-03/20250312.md",
-    "todo/2025/May/20250507.md",
-    "1. today i touch/2025-02/20250207.md",
-    "1. today i touch/2025-04/20250428.md",
-    "1. today i touch/2025-05/20250503.md",
-    "1. today i touch/2025-04/20250427.md",
     "todo/2025/May",
     "resources/Screenshot 2025-05-04 at 11.26.46.png",
-    "resources/Screenshot 2025-05-04 at 11.10.33.png",
     "canvas/topic.size.flow - First canvas.canvas",
     "canvas/Untitled.canvas"
   ]
