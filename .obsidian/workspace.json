@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9374c3d10e37a068",
+        "id": "fd8bd60329a94df0",
         "type": "tabs",
         "children": [
           {
-            "id": "b585b6a00127c713",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of Files"
-            }
-          },
-          {
-            "id": "7acb4c46ff6ca899",
+            "id": "6eaf96d2aecac9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. today i touch/2025-05/20250520.md",
+                "file": "1. today i touch/2025-05/20250524.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250520"
+              "title": "20250524"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,12 +127,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7acb4c46ff6ca899",
+  "active": "6eaf96d2aecac9e0",
   "lastOpenFiles": [
+    "resources/Screenshot 2025-05-24 at 21.09.53.png",
+    "1. today i touch/2025-05/20250523.md",
+    "1. today i touch/2025-05/20250524.md",
+    "1. today i touch/2025-05/20250522.md",
+    "todo/2025/May/20250521.md",
+    "acm-obsidian-shared-workspace/mindmaps/Agent 101.md",
+    "1. today i touch/2025-05/20250520.md",
+    "1. today i touch/2025-05/20250521.md",
+    "resources/Pasted image 20250521104524.png",
     "resources/Screenshot 2025-05-20 at 21.09.40.png",
     "resources/Screenshot 2025-05-20 at 21.02.47.png",
     "todo/2025/May/20250519.md",
-    "1. today i touch/2025-05/20250520.md",
     "todo/2025/May/20250518.md",
     "acm-obsidian-shared-workspace/files/Pasted Image 20250514101832_884.png",
     "acm-obsidian-shared-workspace/diagrams/Drawing 2025-05-14 10.18.12.excalidraw.md",
@@ -154,7 +151,6 @@
     "resources/Screenshot 2025-05-16 at 09.34.17.png",
     "resources/Screenshot 2025-05-16 at 09.33.20.png",
     "acm-obsidian-shared-workspace/README.md",
-    "acm-obsidian-shared-workspace/mindmaps/Agent 101.md",
     "acm-obsidian-shared-workspace/mindmaps",
     "acm-obsidian-shared-workspace/files",
     "1. today i touch/2025-05/20250513.md",
@@ -177,15 +173,8 @@
     "1. today i touch/2025-05/20250509.md",
     "todo/2025/May/20250512.md",
     "resources/Pasted image 20250512174509.png",
-    "todo/2025/May/20250511.md",
-    "todo/2025/May/20250509.md",
     "resources/Pasted image 20250411142841.png",
-    "1. today i touch/2025-03/20250316.md",
-    "resources/Pasted image 20250507100231.png",
-    "todo/2025/May/20250508.md",
-    "1. today i touch/2025-03/20250312.md",
     "todo/2025/May",
-    "resources/Screenshot 2025-05-04 at 11.26.46.png",
     "canvas/topic.size.flow - First canvas.canvas",
     "canvas/Untitled.canvas"
   ]
